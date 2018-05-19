@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="68226f61-dad5-42fd-8a7c-02b5d958bbc5" Title="KS_Character" Url="html/336257b0-6df1-811a-3537-fda18e79ed44.htm">
+    <HelpTOCNode Id="834f3bbd-e6db-4f50-956d-9b072f5cd254" Title="KS_CharacterController Class" Url="html/f90983bd-22f9-f242-c3e2-7419b48e99b2.htm">
+      <HelpTOCNode Title="KS_CharacterController Constructor " Url="html/2dce49fe-7f02-14a6-6d27-e9b73668a816.htm" />
+      <HelpTOCNode Title="KS_CharacterController Properties" Url="html/97504378-f6e0-5e6e-a847-596494374190.htm" />
+      <HelpTOCNode Title="KS_CharacterController Methods" Url="html/928143c7-2e53-8e5d-d151-635fcf612bed.htm" />
+      <HelpTOCNode Id="ccd8fdcc-8702-404b-b16d-713f8d34443e" Title="KS_CharacterController Fields" Url="html/6b887540-ec73-6167-5039-e2bbd10edef2.htm">
+        <HelpTOCNode Title="camera Field" Url="html/9ee5b27b-2c76-88f9-8ffe-3179b9fe1efb.htm" />
+        <HelpTOCNode Title="cameraXSpeed Field" Url="html/7a622f99-7467-036c-d9a0-0003bc1475cc.htm" />
+        <HelpTOCNode Title="cameraYSpeed Field" Url="html/7a957775-ca0f-6085-694a-3df20e0093f2.htm" />
+        <HelpTOCNode Title="crouchHeight Field" Url="html/a9cb83eb-8a3b-096d-60f0-bd73b3764ceb.htm" />
+        <HelpTOCNode Title="interactionRayDistance Field" Url="html/8727477e-6dc1-91b1-382e-ce782027f971.htm" />
+        <HelpTOCNode Title="IsSwimming Field" Url="html/8a871f5a-075b-0add-ec11-97f3e282d5bc.htm" />
+        <HelpTOCNode Title="jumpForce Field" Url="html/538312ac-783b-bc74-165e-fe2aa6f95993.htm" />
+        <HelpTOCNode Title="movementSmooth Field" Url="html/3990ff49-fb0a-edf5-ccd2-f05c0925a514.htm" />
+        <HelpTOCNode Title="moveSpeed Field" Url="html/1374c292-dc36-7aae-2b58-4ddc8f27d5d1.htm" />
+        <HelpTOCNode Title="runSpeed Field" Url="html/e44d7665-0ccb-016d-86da-9302922699c1.htm" />
+        <HelpTOCNode Title="smooth Field" Url="html/a8827bf6-4465-b5b7-f6b9-38480b31ef00.htm" />
+        <HelpTOCNode Title="state Field" Url="html/a23358c9-5f30-ab8d-6b1f-8d6d4089d948.htm" />
+        <HelpTOCNode Title="swimSpeed Field" Url="html/6676f01c-2efa-4076-827d-9251625c0c75.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_CharacterController.PlayerState Enumeration" Url="html/3948ffca-e7c8-ccef-3961-62e14bf972d8.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="f9c911dc-554f-4baf-b2ea-09a594874656" Title="KS_Core" Url="html/33bec690-ad6b-23b5-37ae-03bbf184a0c1.htm">
+    <HelpTOCNode Id="46d3055c-e49c-4f92-8596-e5785cecc1bc" Title="IDamageable Interface" Url="html/c41c99d2-6bbb-e14f-1091-95d030622b42.htm">
+      <HelpTOCNode Id="87e04c55-8f06-4bc6-bd40-180b58c96d28" Title="IDamageable Methods" Url="html/fcaaf738-a7e2-4c44-25f2-6a23774f91e0.htm">
+        <HelpTOCNode Title="TakeDamage Method " Url="html/d1134b6b-4183-7627-fae5-1948086cfd78.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6233481b-de1c-416f-ae12-2f5c2b396682" Title="IHealable Interface" Url="html/f7c7692b-e4f3-a5bf-85d8-dad836755cbf.htm">
+      <HelpTOCNode Id="f5973759-f45b-4418-b6d5-6ee40d3c13a0" Title="IHealable Methods" Url="html/b5853260-2701-a741-25fc-de4c2efda661.htm">
+        <HelpTOCNode Title="TakeHealth Method " Url="html/a95c9b65-ef13-9dab-0250-16e7d10031af.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e1c9cc8b-cef3-4f29-831e-7eb044de099f" Title="KS_Behaviour Class" Url="html/0a8c43fa-6519-2d7d-44eb-4f30940cda29.htm">
+      <HelpTOCNode Title="KS_Behaviour Constructor " Url="html/988c89b0-8752-681a-5589-24acbd5247cd.htm" />
+      <HelpTOCNode Id="f09ab0be-b1d5-41b7-8e65-219b736ca83c" Title="KS_Behaviour Properties" Url="html/4c811a27-eebe-2561-dfa4-7fb0c9a48bbf.htm">
+        <HelpTOCNode Title="GameState Property " Url="html/6dee99f6-933b-32ee-266d-53bdb1c93992.htm" />
+        <HelpTOCNode Title="Manager Property " Url="html/6a698eb3-eadc-d444-e3a4-aa0addc24aa6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="07eb519f-ec93-46f8-8e2a-e70c3af4995d" Title="KS_Behaviour Methods" Url="html/da89570a-e8a5-c9d2-aa1e-19996d303fad.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/425bba5f-1a8b-b40d-eff5-4e508e459fa7.htm" />
+        <HelpTOCNode Title="OnDestroy Method " Url="html/e3fcb708-0716-23fd-3954-2a9f2c83ab79.htm" />
+        <HelpTOCNode Title="OnGameStateChange Method " Url="html/bdcde387-93fb-9c25-33e7-1a0d60b5abbd.htm" />
+        <HelpTOCNode Title="OnLevelLoaded Method " Url="html/3d8a5c47-1d49-54de-f704-e15e6337cc2a.htm" />
+        <HelpTOCNode Title="OnLoadLevel Method " Url="html/85536992-79e3-b355-b9d2-53de6133ecdf.htm" />
+        <HelpTOCNode Title="OnManagerStart Method " Url="html/7ec7806e-245f-3d49-b90a-4d2e006405d1.htm" />
+        <HelpTOCNode Title="OnPause Method " Url="html/d6e70bc4-a8b3-f3b3-1b56-b0cc4b3fc451.htm" />
+        <HelpTOCNode Title="OnPlay Method " Url="html/8af65d22-b279-2fdf-bf7d-b1c096335e2e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f891dd38-7d5e-4fd5-afd4-158aac0d422c" Title="KS_Iinteractable Interface" Url="html/d151359a-3f47-7627-11bd-88fa7a6f6798.htm">
+      <HelpTOCNode Id="f2a328fe-9bf1-4b69-90c2-b88d8ebca290" Title="KS_Iinteractable Methods" Url="html/dafe1058-83be-606c-b947-5d65b5fec77b.htm">
+        <HelpTOCNode Title="OnHover Method " Url="html/18acc0d7-5018-501e-cf66-d2a6a4ac6fcd.htm" />
+        <HelpTOCNode Title="OnHoverLeave Method " Url="html/4338d190-1deb-0e91-8ddd-596f5dc4d744.htm" />
+        <HelpTOCNode Title="OnPress Method " Url="html/0b9e1baf-69bf-2cde-9cb2-74db98297543.htm" />
+        <HelpTOCNode Title="OnPressHold Method " Url="html/3ff54a95-1ef3-5cc4-0e63-6268bbd2b6d0.htm" />
+        <HelpTOCNode Title="OnPressHoldLeave Method " Url="html/8a107c9f-9ff0-dc1f-4982-bdd1f7504975.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab66af3a-b8d3-4781-ad59-c8e689557b34" Title="KS_Manager Class" Url="html/13599c00-a6d2-8fcc-fba2-e616ac1cfea4.htm">
+      <HelpTOCNode Title="KS_Manager Constructor " Url="html/a4d7ad45-c0da-7105-bb27-55abd83d2da1.htm" />
+      <HelpTOCNode Id="719d06c5-52d9-4079-9947-ad5aafb9f403" Title="KS_Manager Properties" Url="html/84789451-13a1-0d2c-a5db-4e570528cdbd.htm">
+        <HelpTOCNode Title="Build Property " Url="html/8192c06d-c482-f800-e5c7-0e1a6eef97f7.htm" />
+        <HelpTOCNode Title="Console Property " Url="html/d8c25047-abd5-879f-e2e3-b3c38041a03d.htm" />
+        <HelpTOCNode Title="GameConfig Property " Url="html/48aa20b6-c833-c2a5-f3de-f8c47cdbfdc5.htm" />
+        <HelpTOCNode Title="GameName Property " Url="html/9e56f63c-450f-a04a-5a86-a1672177fb0b.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/b617d4ed-9fde-2626-0329-79d22f81d4f7.htm" />
+        <HelpTOCNode Title="IO Property " Url="html/d1afef63-95fd-fe39-d22a-292bb7d27230.htm" />
+        <HelpTOCNode Title="State Property " Url="html/da5f8e22-0aef-bab7-7622-753928c4239a.htm" />
+        <HelpTOCNode Title="Version Property " Url="html/b298a5fe-d01f-01eb-1fd3-42a97479cb98.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9de87cb2-c7c8-4bb8-b0bb-fdbbed89d5db" Title="KS_Manager Methods" Url="html/a786489d-0f19-c7f4-036d-4e27350b2cb1.htm">
+        <HelpTOCNode Title="LevelLoaded Method " Url="html/30d206ee-9018-b282-5f4c-879aaafd9eec.htm" />
+        <HelpTOCNode Title="LoadLevel Method " Url="html/d4d942c3-f46b-fe5a-a045-9a6e3bb59bb1.htm" />
+        <HelpTOCNode Title="QuitGame Method " Url="html/d8143951-bd14-9cca-777c-457a8e2d420d.htm" />
+        <HelpTOCNode Title="SaveGame Method " Url="html/9498014a-ea7a-5583-c959-908b6e10aa16.htm" />
+        <HelpTOCNode Title="SetGameState Method " Url="html/0e5efdc3-0f36-9552-8580-54ed07917e79.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d095908a-2ad4-446c-868c-00a10719aa50" Title="KS_Manager Events" Url="html/feed062a-a993-8860-81d6-fc4a86a9de94.htm">
+        <HelpTOCNode Title="OnGameQuit Event" Url="html/cb06e707-637f-c8fd-4131-f22594a9cb3b.htm" />
+        <HelpTOCNode Title="OnLevelLoaded Event" Url="html/da5e406a-e937-2505-f699-565a38874ef4.htm" />
+        <HelpTOCNode Title="OnLoadLevel Event" Url="html/0b692720-e623-5cbe-69bb-dbb61cc5ac21.htm" />
+        <HelpTOCNode Title="OnManagerStart Event" Url="html/3411212b-3d96-69ef-3d1e-ffb74c0a673a.htm" />
+        <HelpTOCNode Title="OnPause Event" Url="html/034dd204-15f7-4040-ba52-0ef52a245a86.htm" />
+        <HelpTOCNode Title="OnPlay Event" Url="html/a9261228-7e39-687c-8742-fe5052ac162d.htm" />
+        <HelpTOCNode Title="OnStateChange Event" Url="html/0f35c957-89a5-d7b8-8c89-a5ed19dcd68a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2c47cd5f-dfb3-494c-9421-0daea4695cba" Title="KS_Manager Fields" Url="html/1b824063-f41a-6f62-8471-4e2b15e28595.htm">
+        <HelpTOCNode Title="gameConfig Field" Url="html/b5981b6c-db65-da02-abf1-4e6e2f662b75.htm" />
+        <HelpTOCNode Title="startState Field" Url="html/b23a4f9e-43c9-771b-bba8-770822fe5078.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_Manager.GameState Enumeration" Url="html/d778a769-2439-70d4-efd2-5f9781e56336.htm" />
+    <HelpTOCNode Id="c1f89721-7cf4-4684-843b-3055da72a38a" Title="KS_Scriptable_GameConfig Class" Url="html/bde0337e-ed06-4737-da9b-d29c98770ca3.htm">
+      <HelpTOCNode Title="KS_Scriptable_GameConfig Constructor " Url="html/d1422f62-3d1a-6e7b-bb4d-2d84b90e8d78.htm" />
+      <HelpTOCNode Title="KS_Scriptable_GameConfig Properties" Url="html/6da6ed07-33e4-c9a6-8969-88760fc1f214.htm" />
+      <HelpTOCNode Title="KS_Scriptable_GameConfig Methods" Url="html/cbb90f61-afa3-260a-a832-eff62a713db3.htm" />
+      <HelpTOCNode Id="8bfb19b8-1aab-420c-848c-83a96c5632bb" Title="KS_Scriptable_GameConfig Fields" Url="html/e5397f6c-5306-1272-1c78-e8b39a006be4.htm">
+        <HelpTOCNode Title="buildNumber Field" Url="html/2196cac8-46e2-6f43-3f64-5c3256f0101e.htm" />
+        <HelpTOCNode Title="gameFolderName Field" Url="html/66e78181-21b3-d1ce-92a9-9142c4141c6c.htm" />
+        <HelpTOCNode Title="gameName Field" Url="html/5cbd7272-8be0-1e65-4445-c6ff1d0cded5.htm" />
+        <HelpTOCNode Title="i_configName Field" Url="html/a2afc4c7-3e34-22ac-ec53-eb9dc64847be.htm" />
+        <HelpTOCNode Title="linuxDataLocation Field" Url="html/a721168d-34d9-0fff-d7d7-3e6bfedae78a.htm" />
+        <HelpTOCNode Title="loc_NotFoundLine Field" Url="html/091eb6ba-adb0-7f6b-ac3a-7baee8910a7a.htm" />
+        <HelpTOCNode Title="loc_returnNotFound Field" Url="html/5afcfb02-61e6-cd80-8758-11248c297700.htm" />
+        <HelpTOCNode Title="macDataLocation Field" Url="html/2058cc96-42f8-48d6-251d-d0842e61bf75.htm" />
+        <HelpTOCNode Title="pool_ClearOnLoadLevel Field" Url="html/a2755a3c-66ab-6797-4c77-712329f335a8.htm" />
+        <HelpTOCNode Title="saveFileFormat Field" Url="html/50dcca7d-0cb2-8e4a-895f-549bb58a633d.htm" />
+        <HelpTOCNode Title="SettingsConfigName Field" Url="html/8d6b0eaf-fb1a-2107-08d3-de9adeb0e5b0.htm" />
+        <HelpTOCNode Title="version Field" Url="html/24b43db1-c3cc-fdd4-897f-2ce125607fc7.htm" />
+        <HelpTOCNode Title="windowsDataLocation Field" Url="html/0faf39a4-51dc-201a-f407-e20412d9991e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5b45e77a-001e-4c5b-af5b-ae4b516f8447" Title="KS_Core.Atmosphere" Url="html/38a569c9-1ba6-0a56-61f5-d3f6a46d597a.htm">
+    <HelpTOCNode Id="26534f36-60c0-4ebb-b008-27153cdf4e3b" Title="KS_Buoyancy Class" Url="html/829d10e5-a8c3-3a82-3b82-87ab53b5c0df.htm">
+      <HelpTOCNode Title="KS_Buoyancy Constructor " Url="html/80e649a7-1536-4a4d-9736-2fdc7adc5983.htm" />
+      <HelpTOCNode Title="KS_Buoyancy Properties" Url="html/8b93607e-09ea-a124-2f54-9650ec3aca65.htm" />
+      <HelpTOCNode Id="dcfc9371-1a81-45bd-9a97-0cb98d01589a" Title="KS_Buoyancy Methods" Url="html/0a5b7e48-8055-d550-11c9-00b5bb04e87f.htm">
+        <HelpTOCNode Title="EnterWater Method " Url="html/23710bf7-019b-4106-a9ee-0e110ff7afe6.htm" />
+        <HelpTOCNode Title="LeaveWater Method " Url="html/fac0798a-c12b-5fbf-a136-2839e7d67651.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e49e1724-4579-4251-8596-72eb955f4d89" Title="KS_Buoyancy Fields" Url="html/3894f704-1e59-330c-064f-4b8bb53a1e89.htm">
+        <HelpTOCNode Title="damper Field" Url="html/887684a3-b7a5-d8a0-3272-17102bb1bc6b.htm" />
+        <HelpTOCNode Title="objectDensity Field" Url="html/dbedd04d-ab33-2c30-ac22-033b917b89a8.htm" />
+        <HelpTOCNode Title="waterDensity Field" Url="html/dc03eaae-d978-03df-efda-9bdc316da89c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b342d9ed-9df9-4807-8944-22cffbb9781e" Title="KS_DayNight Class" Url="html/cf59f0b8-a530-b334-9e0e-0036adb25ced.htm">
+      <HelpTOCNode Title="KS_DayNight Constructor " Url="html/99a0d1c2-483c-0e6d-af2e-d50bbcee2edd.htm" />
+      <HelpTOCNode Id="4b1e11c4-f509-48c6-a7a6-64f372fbf8c3" Title="KS_DayNight Properties" Url="html/cc98b481-c4b4-f418-0e97-2b4882980537.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/19cf841b-e15a-16cc-140e-4caf3b69d13c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="81c11825-a59f-4c98-b2c2-fd5a06bc66fa" Title="KS_DayNight Methods" Url="html/d695f421-eba2-b6d5-c82d-14405f1c2312.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/c43d3a5f-f5a5-ada0-5fd3-ee4d6e6989cb.htm" />
+        <HelpTOCNode Title="OnDestroy Method " Url="html/78077f1f-c131-fae6-bc90-47f02eb1f562.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ed28edff-1239-4fcf-98f0-a1261111e739" Title="KS_DayNight Fields" Url="html/76ae3b7b-c661-2ecb-2de8-514fc82ca6f3.htm">
+        <HelpTOCNode Title="ambient Field" Url="html/fa83e9c4-025d-d5d1-28f2-d06b3fc6e5d1.htm" />
+        <HelpTOCNode Title="colourMulti Field" Url="html/c430a6ad-2dae-c456-6751-d98d82f70ad7.htm" />
+        <HelpTOCNode Title="dayAtmospherThickness Field" Url="html/2427ccad-3e36-20e3-e26f-a41394fed3bd.htm" />
+        <HelpTOCNode Title="fogDensity Field" Url="html/e3b43b25-8b43-a478-905c-0bc97b27ff27.htm" />
+        <HelpTOCNode Title="fogScale Field" Url="html/54333fb9-e4d3-19fa-ca13-bb96b9000ecb.htm" />
+        <HelpTOCNode Title="Intensity Field" Url="html/837dda39-5b1b-1f93-4462-89e56dc4bad8.htm" />
+        <HelpTOCNode Title="latitude Field" Url="html/e0512b0d-875f-bc37-d5dc-62e62f0d86cf.htm" />
+        <HelpTOCNode Title="longitude Field" Url="html/6160ce1c-cbf9-8a6e-f991-20c6ef8885d9.htm" />
+        <HelpTOCNode Title="maxParticals Field" Url="html/63f455c1-b7ce-c5e7-b66f-dc42c7ba5459.htm" />
+        <HelpTOCNode Title="maxStarDistance Field" Url="html/d1a4e96c-6b31-1488-4758-539df2b551b2.htm" />
+        <HelpTOCNode Title="maxStarSize Field" Url="html/98664ab1-b2b2-94d8-1dff-9d8473373d32.htm" />
+        <HelpTOCNode Title="minStarSize Field" Url="html/0617eb56-8e40-612c-a8f9-d652fc0a5925.htm" />
+        <HelpTOCNode Title="nightAtmosphereThickness Field" Url="html/91d6f987-09aa-b9ce-983b-3074f829fead.htm" />
+        <HelpTOCNode Title="nightDayColour Field" Url="html/4ad850a1-1919-ca1e-c527-308cd6e8d187.htm" />
+        <HelpTOCNode Title="nightDayFogColour Field" Url="html/5899f772-b973-38d5-3937-322f7b895bc4.htm" />
+        <HelpTOCNode Title="particals Field" Url="html/1a936cdb-8035-5dcd-8399-f3135d33f5cc.htm" />
+        <HelpTOCNode Title="starContainer Field" Url="html/f42a5641-72d5-a3b1-6955-11eca62d7a68.htm" />
+        <HelpTOCNode Title="starIntensity Field" Url="html/14d04e02-7c91-e6b7-9a3e-c35dcd5c89b7.htm" />
+        <HelpTOCNode Title="starSeed Field" Url="html/137638ea-e8bd-2adc-e31e-3c4995a12bbd.htm" />
+        <HelpTOCNode Title="sun Field" Url="html/1581e107-f1a6-eaec-c44a-69a42bb414ce.htm" />
+        <HelpTOCNode Title="SunContanier Field" Url="html/017926d8-ae83-bad6-a258-f41eef30aacf.htm" />
+        <HelpTOCNode Title="timeZone Field" Url="html/89a2040b-03c4-4114-03c2-6d8b79189f2b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ae47c874-bbde-44ad-8388-e39a1d0d9d26" Title="KS_Water Class" Url="html/664bebac-2eb6-34a6-bb33-0a89bfcd3a82.htm">
+      <HelpTOCNode Title="KS_Water Constructor " Url="html/c6a2886f-2e76-3bbf-1423-8ebb13ceebf8.htm" />
+      <HelpTOCNode Title="KS_Water Properties" Url="html/ecb654df-75be-8cd2-607a-f6dd11c4a549.htm" />
+      <HelpTOCNode Title="KS_Water Methods" Url="html/5294872b-6e53-637c-cb2d-2b4524820e25.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c37d7391-f18c-4edc-a176-973c2442c01e" Title="KS_Core.Atmosphere.SunCalc" Url="html/0b0e78d1-e683-0bde-c981-d1bfa8bb45fd.htm">
+    <HelpTOCNode Id="8c54c8ff-b95a-43c3-8e50-e1acf280ba7e" Title="KS_SunCalc Class" Url="html/f24e7d46-4b77-7d9a-18f8-24aec423f177.htm">
+      <HelpTOCNode Id="c5562444-86ef-4eac-ab07-ad9378bd54bd" Title="KS_SunCalc Methods" Url="html/237d69b9-81db-0bcc-6331-c93f923c2a10.htm">
+        <HelpTOCNode Title="CalculateSunPosition Method " Url="html/d336377e-4c1a-6af4-3d28-155955998be1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="58cf7520-7d44-45cf-8726-3f879a999b46" Title="KS_Core.Console" Url="html/1136027f-72b7-7c16-1560-18f441cfa08a.htm">
+    <HelpTOCNode Title="CommandHandeler Delegate" Url="html/1ffa8f57-ed72-a22f-f13a-81ceeeb0c929.htm" />
+    <HelpTOCNode Id="3aa6ed69-f14f-4166-b897-b4c739de3c9a" Title="KS_Console Class" Url="html/09a59aed-e429-2af9-0d01-13e9d86300f1.htm">
+      <HelpTOCNode Title="KS_Console Constructor " Url="html/8c176bc5-94db-00eb-4e51-5109eb79e23f.htm" />
+      <HelpTOCNode Id="a6adb6b2-b4c3-452c-85b0-acd47760e6cf" Title="KS_Console Properties" Url="html/90c2bb50-bbd9-43dc-6a65-ece434c7cb26.htm">
+        <HelpTOCNode Title="GetAllCommandsAndHelp Property " Url="html/34fd53f2-8fde-3dbb-41cf-8749ff0796c9.htm" />
+        <HelpTOCNode Title="GetLog Property " Url="html/954fa6bd-7c9d-0b4c-2d23-12f96f71729d.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/c43011ea-2044-1ce2-9b24-8989051c237b.htm" />
+        <HelpTOCNode Title="NextUsedCommand Property " Url="html/08083933-d983-aa2c-70de-5016c1d6283e.htm" />
+        <HelpTOCNode Title="OutputUnityDebug Property " Url="html/33ade4a1-dcd4-3cdd-27bb-3194508a795f.htm" />
+        <HelpTOCNode Title="PreviousCommand Property " Url="html/f6eea1c6-55a5-578b-6849-45d2eb8910dd.htm" />
+        <HelpTOCNode Title="TotalCommands Property " Url="html/60b0a2b2-81ec-bdbf-6817-74e4f1064e49.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ff5813f3-5a3e-405e-b79e-73e24cdd98db" Title="KS_Console Methods" Url="html/6b5e5fb3-f3a5-1256-bbb5-61c2f7e469a7.htm">
+        <HelpTOCNode Id="4f99fedd-8ccf-4563-878a-7ca5360c5b7e" Title="RegisterCommand Method " Url="html/9d0878b5-6aa1-ea90-7437-223d3e155a52.htm">
+          <HelpTOCNode Title="RegisterCommand Method (KS_Console.ConsoleCommand)" Url="html/0c7adf78-2f9e-4b15-fec8-d447ac3b4186.htm" />
+          <HelpTOCNode Title="RegisterCommand Method (String, CommandHandeler, String, String, Boolean)" Url="html/8ff92374-616d-d26b-b125-1785702e6929.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RunCommandString Method " Url="html/3fe401e5-d0c0-9986-9ded-14f6728ca3e5.htm" />
+        <HelpTOCNode Title="WriteToConsole Method " Url="html/6d4314b3-d498-42c3-d96b-bc2797d647f6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cb0cfd6e-1345-4c7e-b1ea-25b2c6cc2bbc" Title="KS_Console Events" Url="html/02635503-ce0c-465e-3ea0-d26d9dfba94b.htm">
+        <HelpTOCNode Title="OnCommand Event" Url="html/f3d4481d-f5d0-91bf-cc84-483abcda893c.htm" />
+        <HelpTOCNode Title="OnLogUpdate Event" Url="html/c523ae22-e147-b06d-1bba-12df0eafd888.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="67f15a5f-9923-4a5c-a0ae-596cd0526b43" Title="KS_Console.ConsoleCommand Class" Url="html/83cc8cd9-4ff0-695b-d65b-7fc6cd3a4b91.htm">
+      <HelpTOCNode Title="KS_Console.ConsoleCommand Constructor " Url="html/d943fd3d-167d-f910-344d-a945af9661bf.htm" />
+      <HelpTOCNode Id="65dfdbeb-e873-44cc-888a-88ba18bf54f6" Title="ConsoleCommand Properties" Url="html/b17381a2-19c6-a34e-812c-038b36e9f60f.htm">
+        <HelpTOCNode Title="command Property " Url="html/f48a5655-dbe2-13e9-366b-4b68c110993a.htm" />
+        <HelpTOCNode Title="format Property " Url="html/532484e1-4ffb-3c14-bd5e-dfb38681d235.htm" />
+        <HelpTOCNode Title="handler Property " Url="html/cbe72c4e-ab80-8db1-e3b5-18d45c88f7f7.htm" />
+        <HelpTOCNode Title="help Property " Url="html/dc6a4bd7-455e-3d28-752d-55a3ecf49ffe.htm" />
+        <HelpTOCNode Title="numParams Property " Url="html/d89d0b39-9fee-12b0-4fab-7d7a459b91ee.htm" />
+        <HelpTOCNode Title="requiresAllParams Property " Url="html/743bdcee-6b9b-9499-75f8-09db62a488b1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ConsoleCommand Methods" Url="html/4e20499d-0592-fdf8-515b-0e3c997f28b1.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_Console.OnCommandDelegate Delegate" Url="html/f178b065-3b5b-0d13-f667-7be5a93bec31.htm" />
+    <HelpTOCNode Title="KS_Console.OnLogUpdateDelegate Delegate" Url="html/89572b8a-867e-36e4-2e03-3aac568dcda5.htm" />
+    <HelpTOCNode Id="5619f63e-129f-4055-ab11-0125a7358891" Title="KS_ConsoleCommands Class" Url="html/e96e5bbf-8533-c373-ad4f-466078d0c92a.htm">
+      <HelpTOCNode Title="KS_ConsoleCommands Constructor " Url="html/70155b83-998f-9961-9d00-926f63425f03.htm" />
+      <HelpTOCNode Id="48b0a5b9-c5ee-46e3-a1bb-dc5af907c8bf" Title="KS_ConsoleCommands Methods" Url="html/6afec3d3-bb15-f152-6120-48fae92022f8.htm">
+        <HelpTOCNode Title="Destroy Method " Url="html/31128af7-f49d-02fa-3782-031b3cbe8365.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c5894c06-66c7-4ef2-9190-c34c8f56ff58" Title="KS_Core.GameTime" Url="html/e9d2e9d3-e7d3-1a18-401b-e3d5186487e6.htm">
+    <HelpTOCNode Id="e0d55ff4-91a3-478f-a4e8-2f22e81e1af0" Title="KS_TimeManager Class" Url="html/2d955d87-3b10-3a3f-1f60-0e2c05202e00.htm">
+      <HelpTOCNode Title="KS_TimeManager Constructor " Url="html/54d0bdea-b7e6-822b-d18d-d50c292b9ac1.htm" />
+      <HelpTOCNode Id="5b3ca977-1202-408b-b865-9ab4b2941069" Title="KS_TimeManager Properties" Url="html/11c4c1a9-eaf0-ab9d-84c2-1f3b47f57fdc.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/8086db15-1836-80bb-40e9-db6e1c09e9d6.htm" />
+        <HelpTOCNode Title="TimeOfDay Property " Url="html/7e8d2706-6164-51ce-ff47-3cd20a0f6d37.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="851364be-d237-4874-a173-7ef8f30ff4c0" Title="KS_TimeManager Methods" Url="html/17b9897d-50da-98af-e144-7fe7a168b578.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/ab1f246d-fefd-aba1-b470-89e899ff3fa2.htm" />
+        <HelpTOCNode Title="GetTime Method " Url="html/bc2d9f67-2479-3ebf-6c6c-bdaea1e9b992.htm" />
+        <HelpTOCNode Title="GetTimeFormatted Method " Url="html/86245105-767b-d528-a5c8-909b79fe81c1.htm" />
+        <HelpTOCNode Title="OnDestroy Method " Url="html/e869a233-ca2e-6cc2-2492-5f599671e90e.htm" />
+        <HelpTOCNode Title="OnGameStateChange Method " Url="html/1cf4dbaf-c03e-e040-688a-bab144735d9c.htm" />
+        <HelpTOCNode Title="OnLevelLoaded Method " Url="html/c0df8219-8c11-13bc-5359-254dd62341bb.htm" />
+        <HelpTOCNode Title="SetTime Method " Url="html/c581d3ea-a91d-4cd8-d821-38d8459732e5.htm" />
+        <HelpTOCNode Title="SetTimeOverTime Method " Url="html/07f004e7-2031-f749-ff99-1ec364229d69.htm" />
+        <HelpTOCNode Title="SetTimeScale Method " Url="html/342aa440-edae-70c4-192a-2ac84e4856fe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="207c7969-5c15-4faa-b0df-6f096b6506c2" Title="KS_TimeManager Events" Url="html/ec8e7361-db25-0dec-701e-ce586b8df271.htm">
+        <HelpTOCNode Title="OnTimeUpdate Event" Url="html/5626e942-6f11-b0bb-76c5-1e86c16ff219.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2a184ae3-5774-4304-a248-559845d5d823" Title="KS_TimeManager Fields" Url="html/0641f460-d3e6-47ba-3ee8-680633b9018c.htm">
+        <HelpTOCNode Title="afternoonStartTime Field" Url="html/53b2ddaf-c10e-dff2-680c-3e97f7395933.htm" />
+        <HelpTOCNode Title="dawnStartTime Field" Url="html/b21fab9e-ff82-a911-30c0-93a0e3c75bf4.htm" />
+        <HelpTOCNode Title="duskStartTime Field" Url="html/c4d8eca6-7cf6-d215-a498-b92bc32eb7c4.htm" />
+        <HelpTOCNode Title="middayStartTime Field" Url="html/2f440996-8167-0271-4d4f-4c79fa87c74f.htm" />
+        <HelpTOCNode Title="midnightStartTime Field" Url="html/45894bca-d7bd-ac60-30a9-44d4eb8047ff.htm" />
+        <HelpTOCNode Title="morningStartTime Field" Url="html/b125c421-920f-fc17-13f1-d818863438c9.htm" />
+        <HelpTOCNode Title="secondsPerMinute Field" Url="html/9f1045cb-efab-e4a2-b07b-2ad383821300.htm" />
+        <HelpTOCNode Title="startTime Field" Url="html/fd727b56-d6c8-eef8-bb49-2bffa3113840.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_TimeManager.DayTimeZone Enumeration" Url="html/41ba6cd2-30b2-dea8-544d-72781e66351e.htm" />
+    <HelpTOCNode Title="KS_TimeManager.TimeUpdate Delegate" Url="html/b5331add-7a8c-9ceb-9e3c-eec49247df93.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="f6033705-9aa0-4e2e-ba38-bb56e7ec8113" Title="KS_Core.Handlers" Url="html/53b55fd1-fe4f-3bfe-c465-68a7d139a8ce.htm">
+    <HelpTOCNode Title="BoolHandler Delegate" Url="html/d17b0f9a-e10e-1f9d-efe5-ec0055a22b61.htm" />
+    <HelpTOCNode Title="FloatHandler Delegate" Url="html/c963ffd1-2479-05a7-a632-fb5783b61746.htm" />
+    <HelpTOCNode Title="GameStateHandler Delegate" Url="html/358de46f-13e1-d147-0336-d2d07d39ab98.htm" />
+    <HelpTOCNode Title="IntHandler Delegate" Url="html/d41ff134-f5b2-ac33-8696-5d2612f2d094.htm" />
+    <HelpTOCNode Title="VoidHandler Delegate" Url="html/42fe17cf-4c5d-33fa-0f8b-eed851b1258d.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="32592eda-379f-4fd5-b70e-1656d05d5ceb" Title="KS_Core.Input" Url="html/10cd1a45-ba5c-bfa2-8f49-59baee4d049d.htm">
+    <HelpTOCNode Title="DS4Axis Enumeration" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
+    <HelpTOCNode Title="DS4KeyCode Enumeration" Url="html/62f11f67-9cec-b90d-84df-f007b7fa7dce.htm" />
+    <HelpTOCNode Id="b771c82e-90e3-44ad-8ca0-238e49584297" Title="KS_Input Class" Url="html/8bf940d2-37e0-5d38-b1e5-4fb49ac5db3d.htm">
+      <HelpTOCNode Title="KS_Input Constructor " Url="html/9d14b26d-66ff-25a8-b2eb-86c38bb7ab5d.htm" />
+      <HelpTOCNode Id="76fb8d2f-0398-4b27-ad99-f7010e0c30bb" Title="KS_Input Properties" Url="html/1da799ff-ecbc-e75a-c86d-f3271849dc5a.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/b7607cff-5c79-add2-eb82-4af0f3f331ef.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="09b9bf0f-b0c4-40b0-abc9-64d006306be9" Title="KS_Input Methods" Url="html/dce15509-5a72-9b12-cc3b-cf9d12717df3.htm">
+        <HelpTOCNode Title="DS4ButtonToKey Method " Url="html/cea0e3af-4213-c2ef-c05d-26cdd2d0118e.htm" />
+        <HelpTOCNode Title="GetAxis Method " Url="html/a90f7a16-7256-6700-d836-c5c353389386.htm" />
+        <HelpTOCNode Title="GetDS4Axis Method " Url="html/857006b2-b0cc-2481-22be-bfb1b463e817.htm" />
+        <HelpTOCNode Title="GetInput Method " Url="html/dd50d85a-59ba-54a0-f866-b300d204a2fe.htm" />
+        <HelpTOCNode Title="GetInputDown Method " Url="html/981c24ba-014b-f53e-deef-392599859466.htm" />
+        <HelpTOCNode Title="GetInputUp Method " Url="html/1d7a936a-8a8a-a9c1-fda3-0fd14e04037c.htm" />
+        <HelpTOCNode Title="GetKey Method " Url="html/782c672f-73f5-c3c8-fb2c-889209c5373b.htm" />
+        <HelpTOCNode Title="GetKeyDown Method " Url="html/0b2f63cc-ec1b-b6bc-35f0-9feba32d7a35.htm" />
+        <HelpTOCNode Title="GetKeyUp Method " Url="html/b5716dc4-4f40-ae38-8d17-e466aed881d4.htm" />
+        <HelpTOCNode Title="XboxButtonToKeyCode Method " Url="html/4535ff8c-608d-1e1e-d46c-ccd400e3517c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dca688a1-e503-441f-bff4-1f78719497bf" Title="KS_Input Fields" Url="html/8b0876b9-1621-26d4-d7e3-600b1a49e651.htm">
+        <HelpTOCNode Title="_temp_UseDS4 Field" Url="html/324743ae-971c-4ba7-ee79-ab5d81a897aa.htm" />
+        <HelpTOCNode Title="gameConfig Field" Url="html/db31ebe3-9881-62a6-57fe-ba80df892f75.htm" />
+        <HelpTOCNode Title="inputFile Field" Url="html/df425525-1b0e-b952-0458-529e58125e2d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bddd9143-f422-41f3-9888-87718686fb11" Title="KS_Scriptable_Input Class" Url="html/949a5bdd-6f59-2d1c-c890-5f6cb8d5c1a3.htm">
+      <HelpTOCNode Title="KS_Scriptable_Input Constructor " Url="html/2a9f317f-6ab7-f3ed-7cc1-23736b570332.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Input Properties" Url="html/ff74444a-db4a-e164-ead5-6044af3efee9.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Input Methods" Url="html/64d3cbf8-5d36-98ca-169a-d849ae8cb7c0.htm" />
+      <HelpTOCNode Id="937139d5-f491-4aaf-9a0e-c77076b80a33" Title="KS_Scriptable_Input Fields" Url="html/26a8c9e2-cf2c-8e59-be3f-8cbc40c54f56.htm">
+        <HelpTOCNode Title="Inputs Field" Url="html/b5f0fbf4-8768-c39c-a302-564be9af393c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="58304c9a-bbae-465b-a3a7-905b5085b785" Title="KS_Scriptable_Input_object Class" Url="html/4c29a4bc-c583-fe44-af06-7523837911c6.htm">
+      <HelpTOCNode Title="KS_Scriptable_Input_object Constructor " Url="html/07738467-8f78-4245-c829-8313afd9bbfd.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Input_object Methods" Url="html/a0b57546-c03f-73eb-a655-89f1b45b0c42.htm" />
+      <HelpTOCNode Id="89a413bb-6a02-4727-abf4-eee81dfdc44a" Title="KS_Scriptable_Input_object Fields" Url="html/e1168987-09a4-54e0-4895-e67bc66a38aa.htm">
+        <HelpTOCNode Title="ConfigHelpText Field" Url="html/c173c97d-ad60-5e96-4831-4f5a3a5d6777.htm" />
+        <HelpTOCNode Title="curKey Field" Url="html/a47c1099-7f36-f9c9-5e8d-049f84a2d869.htm" />
+        <HelpTOCNode Title="curMouseButton Field" Url="html/3f3d3eec-2e40-617f-497a-6c017ff11001.htm" />
+        <HelpTOCNode Title="deadZone Field" Url="html/2c6242e3-5b0f-b1c3-1a76-7e950c8fb7ce.htm" />
+        <HelpTOCNode Title="DefaultDS4 Field" Url="html/aa4bd4bf-d1c0-b5bf-52cd-6152054ff451.htm" />
+        <HelpTOCNode Title="DefaultKey Field" Url="html/9ded9ec4-460e-8fe4-1d1f-88e424b42d84.htm" />
+        <HelpTOCNode Title="DefaultXbox Field" Url="html/176485f2-a1bd-ec13-e225-25380aeed54c.htm" />
+        <HelpTOCNode Title="DS4Axis Field" Url="html/bff31e89-3074-e5a7-b8b3-8f6f9541510c.htm" />
+        <HelpTOCNode Title="EditableInGame Field" Url="html/8fc66680-f549-c39a-583d-02e633040386.htm" />
+        <HelpTOCNode Title="ID Field" Url="html/065cbdc7-15df-44f1-3dd0-caaf2fc4dc44.htm" />
+        <HelpTOCNode Title="MouseButton Field" Url="html/94252d76-dfd2-f96b-38d3-97e62d0a22a3.htm" />
+        <HelpTOCNode Title="mouseX Field" Url="html/0f73479b-bb80-e024-e0bd-f23b9bc226c5.htm" />
+        <HelpTOCNode Title="mouseY Field" Url="html/a61d255a-4a37-2dec-34ac-1d0cb0f5bf7a.htm" />
+        <HelpTOCNode Title="negitive Field" Url="html/3b6d5ec8-00e7-2f2a-4280-eeb5ff3a3514.htm" />
+        <HelpTOCNode Title="positive Field" Url="html/4a31f1ae-c2d0-cce0-de83-fbb5ab50717d.htm" />
+        <HelpTOCNode Title="type Field" Url="html/2ca53620-0f32-c46d-959a-1031fccad3f9.htm" />
+        <HelpTOCNode Title="UseDS4 Field" Url="html/ab893e86-e185-ab65-07c9-80802409bb86.htm" />
+        <HelpTOCNode Title="UseXbox Field" Url="html/28e8a4ce-5802-a861-0019-49c5ba13a1e3.htm" />
+        <HelpTOCNode Title="XboxAxis Field" Url="html/14914f55-e8d9-936a-3aed-98500683a2b1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_Scriptable_input_type Enumeration" Url="html/b7cbe226-a4e3-934a-320a-11a1a2871d61.htm" />
+    <HelpTOCNode Title="XboxAxis Enumeration" Url="html/8abf1783-cc26-c22d-2e83-ea8ebf002cf8.htm" />
+    <HelpTOCNode Title="XboxKeyCode Enumeration" Url="html/be44e531-4f7e-c402-3967-811d36d0b2a5.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="25fef745-0cfe-4e9d-9946-2ef82c6155f4" Title="KS_Core.IO" Url="html/d99c3651-5b54-4c80-b8b4-87218d02ebf3.htm">
+    <HelpTOCNode Title="Folders Enumeration" Url="html/bf61d0b8-c86e-4913-7fac-2e2267c6db18.htm" />
+    <HelpTOCNode Id="f8df583c-1d8c-449e-8a1d-7dd55e8f4f4c" Title="KS_FileHelper Class" Url="html/cdaed548-2c4f-d717-0fb9-1bf6899e4aab.htm">
+      <HelpTOCNode Title="KS_FileHelper Constructor " Url="html/ed703071-31e7-f0d9-c333-8fb98b5f8a0d.htm" />
+      <HelpTOCNode Id="f2eb2a13-7b72-4de1-8f71-656ce0741780" Title="KS_FileHelper Properties" Url="html/f2216192-2e85-24fa-c391-5a560ae17677.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/f52f0237-7419-27f9-4363-c0eee8b560a4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="41ed45d3-2513-40da-bda0-3212f612c3cb" Title="KS_FileHelper Methods" Url="html/0e71a879-3fef-d09c-ac5a-8665899a17f0.htm">
+        <HelpTOCNode Title="DeleteFile Method " Url="html/1e309134-8e95-39b2-0348-90143584ee93.htm" />
+        <HelpTOCNode Title="DoesFileExist Method " Url="html/c46a40b0-2aa4-e840-a901-811761ef9c43.htm" />
+        <HelpTOCNode Id="ce2f1798-e115-4736-b528-6d4dd535fb8e" Title="GetDirectoryPath Method " Url="html/34805d0f-01ad-a88b-6c5f-fd79cb9c96f1.htm">
+          <HelpTOCNode Title="GetDirectoryPath Method (LinuxDataLocation)" Url="html/7d7a42b0-9e5c-4c38-7a1a-6143133c0202.htm" />
+          <HelpTOCNode Title="GetDirectoryPath Method (OSXDataLocation)" Url="html/1ad19883-2e6e-c382-a041-a47962a025c4.htm" />
+          <HelpTOCNode Title="GetDirectoryPath Method (WindowsDataLocation)" Url="html/3020ad57-ba54-4591-bc71-6769da343524.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetDirectoryPathByOS Method " Url="html/a0dadbb8-cfd1-be3b-cab0-2bbb2fb78443.htm" />
+        <HelpTOCNode Title="GetFolderContents Method " Url="html/d8a8b15e-ef91-1cab-6352-b1c87266fe27.htm" />
+        <HelpTOCNode Id="5037933c-e7bd-4b58-b110-2ac14e95e708" Title="GetFolderPath Method " Url="html/8e69ff1d-6ded-362c-a863-5090df0f9179.htm">
+          <HelpTOCNode Title="GetFolderPath Method (LinuxDataLocation, Folders)" Url="html/5a0e3f3a-bb12-b482-8d73-88d77ad261a6.htm" />
+          <HelpTOCNode Title="GetFolderPath Method (OSXDataLocation, Folders)" Url="html/8847266b-724a-6785-fe83-2100974d1295.htm" />
+          <HelpTOCNode Title="GetFolderPath Method (WindowsDataLocation, Folders)" Url="html/0982c223-03cc-2cc8-8db9-087c28c292a9.htm" />
+          <HelpTOCNode Title="GetFolderPath Method (LinuxDataLocation, String, Folders)" Url="html/d3cddec1-d816-d5b9-e15b-7c89527185c9.htm" />
+          <HelpTOCNode Title="GetFolderPath Method (OSXDataLocation, String, Folders)" Url="html/c50b93c1-e5c0-8f70-c031-727d846fc5ee.htm" />
+          <HelpTOCNode Title="GetFolderPath Method (WindowsDataLocation, String, Folders)" Url="html/30c01a53-5e7e-1bab-39f4-ae1cced5153e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFolderPathByOS Method " Url="html/51d61475-dc9c-d58c-3eae-8a50a0bbe723.htm" />
+        <HelpTOCNode Title="GetGameFolderPath Method " Url="html/4b6e51ca-4689-5ab7-5ac2-e94d4fbd59c5.htm" />
+        <HelpTOCNode Title="LoadFileToBytes Method " Url="html/44edb80a-6dcc-1133-7573-3a5f90ec3b4e.htm" />
+        <HelpTOCNode Title="LoadFileToString Method " Url="html/d010fae2-ec0f-7f11-643f-3a8ede5f7a72.htm" />
+        <HelpTOCNode Title="RenameFile Method " Url="html/3bbe5dc9-8bd2-03e4-41c8-28596c7c6d90.htm" />
+        <HelpTOCNode Id="0a25377f-fd71-43b9-8679-d90c3813df79" Title="SaveFile Method " Url="html/c9303952-48ef-69bf-be1d-d385ce9f59cc.htm">
+          <HelpTOCNode Title="SaveFile Method (Folders, String, Byte[])" Url="html/2e1947a9-e1ff-b84d-61a3-639d92ac1435.htm" />
+          <HelpTOCNode Title="SaveFile Method (Folders, String, String)" Url="html/6da685f1-e3d0-4e7f-1ce8-d56398c33cfb.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2c5b3cd3-30ba-4139-8db4-6d2861bfedcc" Title="KS_SaveGame Class" Url="html/f8429544-daa4-7d58-ed68-0d7c63d2ca7f.htm">
+      <HelpTOCNode Title="KS_SaveGame Constructor " Url="html/101d6aa1-f7b5-b81e-af39-6bd6ee10c859.htm" />
+      <HelpTOCNode Title="KS_SaveGame Methods" Url="html/67d53107-704e-241e-0f66-cde7b1c3b86a.htm" />
+      <HelpTOCNode Id="ed9fc979-8e96-42f5-bbfc-f39a841b1d19" Title="KS_SaveGame Fields" Url="html/4794454a-2f25-04c2-47c4-2b5e7b866a7c.htm">
+        <HelpTOCNode Title="gameObjects Field" Url="html/2a807d4d-9ad1-6d3d-7aeb-00908803b51e.htm" />
+        <HelpTOCNode Title="SaveData Field" Url="html/34949329-30fe-1a4f-c925-aaa20d38b5c3.htm" />
+        <HelpTOCNode Title="SceneIndex Field" Url="html/e1802f6c-4232-9020-9c36-b3a3b77b0bcc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e4364f5f-dc24-4123-b6ee-da462c60081d" Title="KS_SaveLoad Class" Url="html/0a693fe9-bccc-3823-5a55-4f9ae7933202.htm">
+      <HelpTOCNode Id="e4b68d60-802f-4e5a-af0a-28c690ed60c9" Title="KS_SaveLoad Methods" Url="html/86912ad9-36f1-7b2b-5878-ec5b62a18af3.htm">
+        <HelpTOCNode Title="AddSurrogate Method " Url="html/9068271b-6f25-4d72-5c4c-98f75e94cac7.htm" />
+        <HelpTOCNode Title="Load Method " Url="html/5e5ec317-4d45-a728-7e9b-9aee423e1ad2.htm" />
+        <HelpTOCNode Title="RestoreGameObject Method " Url="html/f4637b11-f4c7-30f5-c3bd-835763c696c1.htm" />
+        <HelpTOCNode Title="Save Method " Url="html/22109220-ab1d-b5dd-6377-701f8a2fb08f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="649b4c7d-0576-4261-b839-227f8bfa92ea" Title="KS_SaveLoad Events" Url="html/9fd0785f-b338-70b2-16f9-e43c45fa06a2.htm">
+        <HelpTOCNode Title="OnLoad Event" Url="html/182cb242-5d54-1202-fff5-c80d9fcef11d.htm" />
+        <HelpTOCNode Title="OnSave Event" Url="html/bd6d0255-a9fb-5636-8bc5-2542eb61dd8e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a54370b5-8273-4e31-aafd-2427a8c507e4" Title="KS_SaveLoad Fields" Url="html/04b0c01b-a0d6-5a46-56aa-3344300fcadc.htm">
+        <HelpTOCNode Title="fileFormat Field" Url="html/4ce87ead-84df-23a9-7605-47e45828d25d.htm" />
+        <HelpTOCNode Title="gameConfig Field" Url="html/5b23fb97-bd98-a531-b1c1-c0e84dbb8f8b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_SaveLoad.OnLoadHandler Delegate" Url="html/29dbb999-abec-fe23-b865-139ef0de37ec.htm" />
+    <HelpTOCNode Title="KS_SaveLoad.OnSaveHandler Delegate" Url="html/b79d2538-59e9-06cb-97a3-7d4cd5266ce0.htm" />
+    <HelpTOCNode Id="f10ee035-5dc6-46d8-b543-46fa154a4df6" Title="KS_SaveObject Class" Url="html/747f0142-97a0-462d-d00b-648ebebf218e.htm">
+      <HelpTOCNode Title="KS_SaveObject Constructor " Url="html/28b02621-69ed-7a46-e999-e612030830ee.htm" />
+      <HelpTOCNode Title="KS_SaveObject Methods" Url="html/d158fd1d-7cea-0b9c-71f9-7b4817b95c2b.htm" />
+      <HelpTOCNode Id="e53932ee-e133-447f-a8d2-1898cc91050c" Title="KS_SaveObject Fields" Url="html/55a4edc9-9a85-3534-0837-360404dd6298.htm">
+        <HelpTOCNode Title="active Field" Url="html/9e2ca666-8512-b516-50fe-3eeeb373a274.htm" />
+        <HelpTOCNode Title="id Field" Url="html/e1147724-a9a9-7389-104b-84682d5e459e.htm" />
+        <HelpTOCNode Title="localScale Field" Url="html/1120179c-e24e-c014-80f9-e681f153005e.htm" />
+        <HelpTOCNode Title="name Field" Url="html/61bdfcd3-715f-b151-afce-aef449e19545.htm" />
+        <HelpTOCNode Title="objectComponents Field" Url="html/dda5c02d-bfb7-6d9f-3cd5-8394514dfbbe.htm" />
+        <HelpTOCNode Title="parentId Field" Url="html/ac08d3e7-a1bd-68b8-6b44-68e071d968c2.htm" />
+        <HelpTOCNode Title="position Field" Url="html/b003847f-5b7f-55fc-4866-6aa2d14469c5.htm" />
+        <HelpTOCNode Title="prefabName Field" Url="html/5d295b98-f02b-ce41-aed9-a7b5e0f53296.htm" />
+        <HelpTOCNode Title="rotation Field" Url="html/8e846ac7-d83d-cafa-6fa1-9276273fd217.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="569b73b7-12f2-4fab-a9ab-6547f9c1ca7a" Title="KS_SaveObjectComponent Class" Url="html/642ce883-44d5-0f70-8683-7c580b48141e.htm">
+      <HelpTOCNode Title="KS_SaveObjectComponent Constructor " Url="html/76db6237-238b-8c59-b439-acf384dc0083.htm" />
+      <HelpTOCNode Title="KS_SaveObjectComponent Methods" Url="html/ce36c322-faff-6a51-e37c-f7c813a2267a.htm" />
+      <HelpTOCNode Id="22c77684-507e-4074-9fd0-a90e81806937" Title="KS_SaveObjectComponent Fields" Url="html/b4be83d0-d924-4eff-3e2a-54d9104f2dfc.htm">
+        <HelpTOCNode Title="componentName Field" Url="html/f14e89fe-b879-d49d-fab5-ab5b5b348187.htm" />
+        <HelpTOCNode Title="fields Field" Url="html/bb0f636f-a4da-24c5-efb9-054bdb564044.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LinuxDataLocation Enumeration" Url="html/9a24f7ae-a1ff-d539-80db-10f193b4163c.htm" />
+    <HelpTOCNode Title="OSXDataLocation Enumeration" Url="html/efb327f5-4111-cdbc-1308-adeca5215d38.htm" />
+    <HelpTOCNode Title="WindowsDataLocation Enumeration" Url="html/4f2c0f3b-f833-ed6c-57ea-c4f63a88c027.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="5c8d3a9d-3cc7-4fe2-9d6f-c62197627c23" Title="KS_Core.IO.Surrogates" Url="html/20a30e2e-1257-6e87-9609-b99b1dfe3627.htm">
+    <HelpTOCNode Id="11417558-fee2-4a8b-ae63-d626cf72db3e" Title="CameraSurrogate Class" Url="html/00480947-c825-331d-a29e-fe0ce829bcc6.htm">
+      <HelpTOCNode Title="CameraSurrogate Constructor " Url="html/c15d44fc-57f4-29ee-305f-93841a93507f.htm" />
+      <HelpTOCNode Id="8f8bb8f3-866d-4828-8943-c3005da3de90" Title="CameraSurrogate Methods" Url="html/55652e7b-770d-6b57-e6b1-6834b3a0e7ec.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/a1e4adea-0e66-fc34-09d8-d59b1e24421e.htm" />
+        <HelpTOCNode Title="SetObjectData Method " Url="html/d7f0e82f-8f00-fc83-886c-510b8db3f94c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="52d76782-78bd-4ff2-8a9f-b8e2a30b3fb2" Title="ColourSurrogate Class" Url="html/9b698645-51b8-5ee9-aadd-27079c57ba43.htm">
+      <HelpTOCNode Title="ColourSurrogate Constructor " Url="html/e40c235d-e3ad-fc60-03b4-e7530a0ad79c.htm" />
+      <HelpTOCNode Id="fcda710b-67e9-4e2b-888a-2cfcd154c59e" Title="ColourSurrogate Methods" Url="html/4f3db2bc-10e0-daa5-327d-6b0bb98eb150.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/ab8c77f1-8f7b-7269-1897-6ff446df2233.htm" />
+        <HelpTOCNode Title="SetObjectData Method " Url="html/0cff421d-2cea-5d3b-ca74-d8dbbcd55ce6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="11989c61-30b0-4c5f-a6df-7a7122829e70" Title="QuaternionSurrogate Class" Url="html/979dfd10-5e49-1b08-cfc1-2f8309fd0c5f.htm">
+      <HelpTOCNode Title="QuaternionSurrogate Constructor " Url="html/718aa944-cb9b-f3ee-3f66-6ec83d4dfe4f.htm" />
+      <HelpTOCNode Id="d8ce8bec-8006-4406-a470-d8017a301f01" Title="QuaternionSurrogate Methods" Url="html/105c1ca7-97e7-788f-69a9-abb3dea23b92.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/ddc0363b-c81f-65aa-1a5f-c70075740cdb.htm" />
+        <HelpTOCNode Title="SetObjectData Method " Url="html/958b608b-e5c2-6b93-3b6c-002af77bed91.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3db66c39-0e81-49c1-b4c8-1cd6d0bee967" Title="TransformSurrogate Class" Url="html/2aad1033-4b72-2912-aea6-eb96a9545279.htm">
+      <HelpTOCNode Title="TransformSurrogate Constructor " Url="html/0ca689bb-0ba5-6ee9-26bb-611b83248083.htm" />
+      <HelpTOCNode Id="dab7399c-7b26-4598-922b-6bc404cdd0a1" Title="TransformSurrogate Methods" Url="html/a9c755d3-72cd-6166-7812-f9c3aec87e7d.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/00dd5265-a422-8af4-6115-04294105a60d.htm" />
+        <HelpTOCNode Title="SetObjectData Method " Url="html/71b1bc09-a954-481d-5c7d-3440dc1e4f4c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="364ae024-49bf-4f20-b929-b05777e6e638" Title="Vector3Surrogate Class" Url="html/c82a2ebd-a33a-56a5-91fe-54fea1768f6a.htm">
+      <HelpTOCNode Title="Vector3Surrogate Constructor " Url="html/73754e63-83ec-0016-39ce-613eb1294b82.htm" />
+      <HelpTOCNode Id="a72c1f86-26fb-40b1-8a27-1d97b09799dd" Title="Vector3Surrogate Methods" Url="html/e5e2fd15-1f67-02bb-4d7f-7b2b0ba683db.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/de93e836-f12d-21b3-6481-e45219035d3f.htm" />
+        <HelpTOCNode Title="SetObjectData Method " Url="html/77111237-ec51-bb7b-1fba-d510a42cb07a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d7244b37-c50a-4a14-937f-f509ea023b9c" Title="KS_Core.Localisation" Url="html/fc59b7e1-bc03-0fc7-13a3-82a4214552cd.htm">
+    <HelpTOCNode Id="531edeee-886f-464b-81f9-a31bd6cf6c71" Title="KS_Localisation Class" Url="html/15e5d397-41c1-d1a2-4d85-84398cc91a00.htm">
+      <HelpTOCNode Title="KS_Localisation Constructor " Url="html/14db525f-e051-85e2-5166-eeda83094fb8.htm" />
+      <HelpTOCNode Id="c4f028c6-c91d-4b31-a671-baf2a156c98f" Title="KS_Localisation Properties" Url="html/bf0835a9-48c8-fa8a-2f06-fa48c1f0a598.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/31528b7e-4d36-80e7-6aa8-ae3c1b7256d1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="be7342dd-ba4a-4cd1-8d41-8c2e19fbc577" Title="KS_Localisation Methods" Url="html/8d394603-3b39-4718-71e9-8ce23a56eae1.htm">
+        <HelpTOCNode Id="0c7a136a-8ca9-4f83-8cd3-bd552c8ce224" Title="ChangeLanguage Method " Url="html/bbec28dd-c874-350f-c83f-259c8af08e76.htm">
+          <HelpTOCNode Title="ChangeLanguage Method (Int32)" Url="html/f07af8ae-078e-3de7-be88-3d85515e3cbf.htm" />
+          <HelpTOCNode Title="ChangeLanguage Method (String)" Url="html/0cc935fd-4c60-ec2d-6a81-971568913d63.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetLanguages Method " Url="html/1dd862e5-8d50-5bfb-b010-065d81ca8e28.htm" />
+        <HelpTOCNode Title="GetLine Method " Url="html/9384cc3f-4c48-f24f-6337-363f47380f87.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8fa039c6-32de-4725-be03-47399f19b11a" Title="KS_Localisation Events" Url="html/eb92a831-3242-0f01-77c0-b8deaf717f37.htm">
+        <HelpTOCNode Title="LanguageChanged Event" Url="html/a0d51a95-8d39-71ae-8821-92ff21942803.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="eca58fa4-76e4-4899-ae57-016e4d1976c4" Title="KS_Localisation Fields" Url="html/a6deb35b-dc7b-ac3e-bb06-772a8d31a88e.htm">
+        <HelpTOCNode Title="gameConfig Field" Url="html/430185bb-8fb2-07c1-f4f3-69eb1f4e6e29.htm" />
+        <HelpTOCNode Title="translationFile Field" Url="html/26d20adb-eceb-d097-83c8-17850140dae8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7c76efc6-7962-4c4e-97ae-ab10dfc38fe9" Title="KS_Scriptable_Translations Class" Url="html/51e012ff-b245-7da7-d5d2-51d3b7ca4263.htm">
+      <HelpTOCNode Title="KS_Scriptable_Translations Constructor " Url="html/3b153eab-d2aa-6d75-1f7e-1ce3d1fcfd33.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Translations Properties" Url="html/fb4159ce-27bc-d08a-1d4f-a91effbab711.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Translations Methods" Url="html/6172c45e-6022-40cf-8cee-bc63b7e05af3.htm" />
+      <HelpTOCNode Id="121dea83-d406-4728-bbe5-0166f00a5c99" Title="KS_Scriptable_Translations Fields" Url="html/0ecde606-83ea-59e2-ba5b-3f48f39da8b7.htm">
+        <HelpTOCNode Title="DefaultLanguage Field" Url="html/4d56efa7-4d2a-9af8-3854-a8692adcfe51.htm" />
+        <HelpTOCNode Title="languages Field" Url="html/a5b307b9-e1f3-f557-c93c-d51ca2013ec8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e4d27a4c-7830-459f-b9da-a078233b0784" Title="KS_Scriptable_Translations_Language Class" Url="html/c1edd96d-99c1-5394-dece-be75856844f4.htm">
+      <HelpTOCNode Title="KS_Scriptable_Translations_Language Constructor " Url="html/ce04046d-91f1-22ea-dde0-69299b482f92.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Translations_Language Methods" Url="html/fd0e3772-9548-dae9-86b3-155a4c1ba29c.htm" />
+      <HelpTOCNode Id="b4e10ee9-c871-4f3f-81cc-ba41fdd6d3c6" Title="KS_Scriptable_Translations_Language Fields" Url="html/ef42a7dc-9e07-b4aa-faaa-c5270eedab65.htm">
+        <HelpTOCNode Title="language Field" Url="html/a9fcefea-c65e-1dde-88db-f44fab831b11.htm" />
+        <HelpTOCNode Title="strings Field" Url="html/3f2bfebd-c1b3-ba95-965b-c3b9ad3e3b94.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6c98ad6a-aa12-4a69-b065-614ee5c0c492" Title="KS_Subtitle Class" Url="html/b65e3d69-b7c8-d3f6-3722-dee8639dcaf9.htm">
+      <HelpTOCNode Title="KS_Subtitle Constructor " Url="html/a7ea7a26-ddbf-9eeb-b05c-0dea2187e2ee.htm" />
+      <HelpTOCNode Id="609c946b-32e8-4fbe-b386-e7d743694a1d" Title="KS_Subtitle Properties" Url="html/f87b4178-ce93-0230-821f-81f0d3858386.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/d47cf1c3-943a-b47e-61fa-31d04ce273d1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="657d7436-dce3-4475-9faa-c24f6c8f64b4" Title="KS_Subtitle Methods" Url="html/8c086288-2ae0-e442-b224-c09dcf76bc0a.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/f742bbc4-79f6-1653-4a15-e33bac09f2af.htm" />
+        <HelpTOCNode Title="PermShowLocalisedText Method " Url="html/4f8e82df-3503-4de1-5a4e-5c8e24b72efa.htm" />
+        <HelpTOCNode Title="PermShowText Method " Url="html/a3cd8b0b-a1e7-0e23-4eb2-050366a53443.htm" />
+        <HelpTOCNode Id="d82b352b-08b7-4eef-82f0-e9f845f39239" Title="ShowLocalisedText Method " Url="html/12733b25-e278-1c18-8957-b642c9995ae6.htm">
+          <HelpTOCNode Title="ShowLocalisedText Method (String)" Url="html/f48a4744-26f8-9ba2-7c41-b5f5ccea7b17.htm" />
+          <HelpTOCNode Title="ShowLocalisedText Method (String, Single)" Url="html/49a29a03-f83b-a52d-e01e-44708d218f7f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d90d76e6-5727-47ae-81a3-600329ac742f" Title="ShowText Method " Url="html/681381fc-e7b2-b905-0c1a-0775b925232f.htm">
+          <HelpTOCNode Title="ShowText Method (String)" Url="html/4e20961a-00fe-1e48-a35f-e450d9f292d3.htm" />
+          <HelpTOCNode Title="ShowText Method (String, Single)" Url="html/036c0031-0652-9da3-4ec3-f6eda6feb073.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="90fb8660-5889-4795-8c22-c09334ad09d1" Title="KS_Subtitle Fields" Url="html/c149e715-4b2a-7bb8-fae4-324d4e323bd2.htm">
+        <HelpTOCNode Title="DefaultMainShowTime Field" Url="html/e73aa178-f27f-2370-9017-8d11e1433d63.htm" />
+        <HelpTOCNode Title="DefaultSecondaryShowTime Field" Url="html/560d8f23-f7c2-fd36-39a7-4f0ccc526aee.htm" />
+        <HelpTOCNode Title="subMainText Field" Url="html/6a9e3565-8185-2d4b-80e5-b4d918bbdd23.htm" />
+        <HelpTOCNode Title="subSecondaryText Field" Url="html/cbe19aae-5bab-3607-510d-ad17b1da2000.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_Subtitle.SubtitleMethod Enumeration" Url="html/51c1420d-7fb6-f20a-5089-de092e34992a.htm" />
+    <HelpTOCNode Id="de87e96b-fa75-4bc8-946f-2e1fbe6467b1" Title="KS_TextTranslate Class" Url="html/55379d68-1b4f-0011-c209-fbdb62b2dc9e.htm">
+      <HelpTOCNode Title="KS_TextTranslate Constructor " Url="html/7a29c886-c5bb-dcb9-5a8d-cc418cdac643.htm" />
+      <HelpTOCNode Title="KS_TextTranslate Properties" Url="html/565095d4-f8e3-e00d-2fb6-2a78fc5f9ce6.htm" />
+      <HelpTOCNode Id="578e5316-269f-40bd-a5aa-fee0a9c20494" Title="KS_TextTranslate Methods" Url="html/9d6cd7af-246c-f8ab-86d1-d18d345719e3.htm">
+        <HelpTOCNode Title="OnDisable Method " Url="html/de5c86b8-ed82-ae28-a035-de6fc4638f36.htm" />
+        <HelpTOCNode Title="OnEnable Method " Url="html/871695b1-a00a-7fe0-4686-631218fc3c1d.htm" />
+        <HelpTOCNode Title="Refresh Method " Url="html/5776e15a-1874-1834-2a9e-7bf4c17c782f.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/7581dd21-decf-71c5-c89c-07074040d18e.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/809ffd12-57ce-e8c6-c6d1-d0dc415d2999.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="96aa5217-4b09-4529-948a-30a93f1b8491" Title="KS_TextTranslate Fields" Url="html/e1c485bd-d28e-84eb-3d6e-83419a3399c5.htm">
+        <HelpTOCNode Title="lineId Field" Url="html/3ec17c29-72c7-6b68-925e-b5ba1a2c60ec.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c185ffa6-b617-4913-85bc-b9dd653c62ff" Title="TranslationString Class" Url="html/473a5802-dea8-58d3-5d6f-91a50933aa80.htm">
+      <HelpTOCNode Title="TranslationString Constructor " Url="html/52f8117d-0dd1-333d-e698-3ad033880d48.htm" />
+      <HelpTOCNode Title="TranslationString Methods" Url="html/7d324d9a-cad7-98bb-ce2e-8ad62566fd16.htm" />
+      <HelpTOCNode Id="2d7bca21-f56e-4bd0-a699-b185facbb5fd" Title="TranslationString Fields" Url="html/b013290f-8428-3afc-dc05-67583ad1eee5.htm">
+        <HelpTOCNode Title="lineID Field" Url="html/ac2f95d6-d046-796e-27fb-3edd1fe79dc9.htm" />
+        <HelpTOCNode Title="lineText Field" Url="html/d405d5ce-9173-a5ff-3695-895b23f2f3d7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a296ba81-2624-418d-bc0c-f5b51758de45" Title="KS_Core.Parsers" Url="html/c28d3da0-e7e3-211b-b6a5-c5d55293cc73.htm">
+    <HelpTOCNode Id="adf56060-1f13-412a-9f2d-b5fceaf15040" Title="KS_IniParser Class" Url="html/8e3fb0a0-1365-f2a3-2532-1e1ed8d1b9c8.htm">
+      <HelpTOCNode Id="e878654a-0e60-43ac-ab89-40d8dac7a88d" Title="KS_IniParser Constructor " Url="html/ffe4ab14-6618-913b-9a06-b3ecdedb3f00.htm">
+        <HelpTOCNode Title="KS_IniParser Constructor " Url="html/c843c8b4-527c-23ca-9183-f12f9dd9e3f3.htm" />
+        <HelpTOCNode Title="KS_IniParser Constructor (String)" Url="html/c7f7f7c8-b7b7-e638-c92e-0ca60a06f808.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e8e4375c-ffe2-4f9f-bec8-ae8dafec8671" Title="KS_IniParser Methods" Url="html/f486b3e6-1bcb-3a08-3926-5aecc151c5a4.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/901ba582-9d34-7d40-7c51-11be9a3ab319.htm" />
+        <HelpTOCNode Title="Count Method " Url="html/a06a5c94-06ec-bb53-91d7-34e819612428.htm" />
+        <HelpTOCNode Title="DoesExist Method " Url="html/e26c98b4-f374-5995-ded4-c8c3df9b6aa0.htm" />
+        <HelpTOCNode Id="880e143c-0c9c-41d5-86a8-c464b7263a19" Title="Get Method " Url="html/a74e2c57-f04c-6ebf-ecd8-4b2544dbb1a0.htm">
+          <HelpTOCNode Title="Get Method (String)" Url="html/77329adb-f016-b37b-9287-35c6e1f2f75e.htm" />
+          <HelpTOCNode Title="Get Method (String, String)" Url="html/71fd3389-2842-4f5b-8a05-aa02f0fcf9dd.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetLine Method " Url="html/57b62f3f-8b23-0c06-b3d2-5f3aed42e96b.htm" />
+        <HelpTOCNode Title="Load Method " Url="html/d745e151-f9fc-c05a-b292-8fa180e136c0.htm" />
+        <HelpTOCNode Id="ba794a0e-3c75-41a0-9009-a59d6ed76108" Title="Remove Method " Url="html/96b73f4a-506b-a73c-ba79-d60aa5a9105b.htm">
+          <HelpTOCNode Title="Remove Method (String)" Url="html/8090556c-0b34-6bf3-084f-88eb604eaa29.htm" />
+          <HelpTOCNode Title="Remove Method (String, String)" Url="html/3600ef48-fae7-49f8-26a9-118f1268e6fc.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Save Method " Url="html/4b5ef49e-af13-b455-36f5-3197f9ce74b7.htm" />
+        <HelpTOCNode Id="719ba8d3-cfd6-40d8-9aea-bddc4bfa2a0a" Title="Set Method " Url="html/348ca171-b398-a99d-9f7e-d65854617592.htm">
+          <HelpTOCNode Title="Set Method (String, String, String)" Url="html/6e7e4ea3-e4b7-3925-4438-8c690a68eecb.htm" />
+          <HelpTOCNode Title="Set Method (String, String, String, String)" Url="html/19578d82-e2c3-e7ba-39c4-00dfc4dcf01f.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="66660538-8b6d-4d3f-b294-a21a3a1ceb94" Title="KS_Core.Pooling" Url="html/936a2e5f-7554-c0bc-898f-43760d28514f.htm">
+    <HelpTOCNode Id="7d547a27-f52e-4fd6-8e5e-66d0dfff759d" Title="KS_IPoolObject Interface" Url="html/d282b0fb-1d64-5f2f-fa81-3cdc9c40af1c.htm">
+      <HelpTOCNode Id="db040ddc-3a9e-4ff3-822b-8e1d79a839d1" Title="KS_IPoolObject Properties" Url="html/4678965b-9da3-c629-9937-205cac8ca998.htm">
+        <HelpTOCNode Title="_Id Property " Url="html/4ed7e5cb-a190-f517-cf9c-acdb420fce2f.htm" />
+        <HelpTOCNode Title="GameObject Property " Url="html/157002ba-3c6e-ad4a-0027-f8c84d48d23c.htm" />
+        <HelpTOCNode Title="HasId Property " Url="html/2ccf2607-1462-67f2-2fdd-69c9e40e6edb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9f43c76b-33f0-4f81-a208-0f50b96122fd" Title="KS_IPoolObject Methods" Url="html/3d15c3e2-49f6-430f-198c-56dec42dbe84.htm">
+        <HelpTOCNode Title="GetConcreteType(T) Method " Url="html/43717be7-41fd-c888-d9cf-836ff5bb8367.htm" />
+        <HelpTOCNode Title="PoolSettings Method " Url="html/f124ef3a-9056-9a30-5d69-3902b1426866.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="634a86ff-35f1-43ac-9a51-ecf94e5c373a" Title="KS_PoolManager Class" Url="html/b2cd7847-1064-c699-3037-54e7674f7a1d.htm">
+      <HelpTOCNode Title="KS_PoolManager Constructor " Url="html/a596719c-722d-685a-5cac-950b67b83a7f.htm" />
+      <HelpTOCNode Id="a96db77e-c8e1-4a5a-8122-cd69d82ddb8f" Title="KS_PoolManager Properties" Url="html/6031e24c-c2e6-819a-f640-e93a0ce529b6.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/8fe0ca03-545f-93e4-5973-67865a78a030.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="828c84a5-ca9a-4a09-8c94-59b2cdd2741e" Title="KS_PoolManager Methods" Url="html/cd283888-b24c-2c42-05ed-365dd3b3a8e8.htm">
+        <HelpTOCNode Title="AddPoolObject Method " Url="html/402fc3f2-e60f-aefe-70c0-42207480b225.htm" />
+        <HelpTOCNode Title="Clear Method " Url="html/789f8353-0d1f-75e5-9f29-5181f7e80893.htm" />
+        <HelpTOCNode Title="Get Method " Url="html/2ff18a7a-ef4d-7841-c039-37d24dca6546.htm" />
+        <HelpTOCNode Title="GetAmountOfType Method " Url="html/7b171430-87ce-6044-67f4-32eab39506d3.htm" />
+        <HelpTOCNode Title="GetUniqueId Method " Url="html/f6d2aa10-aca0-e7cf-39ec-bf485ce34192.htm" />
+        <HelpTOCNode Title="LevelLoadStarted Method " Url="html/25c364cd-ce43-9286-7adb-58fae68d59b9.htm" />
+        <HelpTOCNode Title="RemovePoolItem Method " Url="html/2fd39a63-0a79-7009-1382-e5f5ab3cb669.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8fe891c9-089b-4627-a781-ddf01c1ceccc" Title="KS_PoolManager Fields" Url="html/6814ea80-6a34-2831-8a7a-ee6e69787ad4.htm">
+        <HelpTOCNode Title="gameConfig Field" Url="html/2b0079ce-6a90-8cae-497c-5a6d6e2b4b9c.htm" />
+        <HelpTOCNode Title="pooledObjectsContainer Field" Url="html/3bd11fc2-3d16-3bf4-7abe-77df0d6bfa8b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ac35ec36-8c4e-4a01-9d96-13ee2c291929" Title="KS_poolObject Class" Url="html/0573f062-7221-5cc8-c7f3-a78060b175d9.htm">
+      <HelpTOCNode Title="KS_poolObject Constructor " Url="html/b531dec9-9ea9-1f3c-15bf-35e3d48a623a.htm" />
+      <HelpTOCNode Id="5df082db-3fdb-466d-a386-d1d5bcee4882" Title="KS_poolObject Properties" Url="html/5504bd4c-26a1-9a46-1314-d0f88bb1a4fa.htm">
+        <HelpTOCNode Title="_Id Property " Url="html/93fe2802-88c4-b7cd-032b-e98729323459.htm" />
+        <HelpTOCNode Title="GameObject Property " Url="html/5ce3e574-44a3-5cd4-5615-297f21931078.htm" />
+        <HelpTOCNode Title="HasId Property " Url="html/8b97c993-866a-6079-fa77-66a5eff66e00.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d8bf15e2-5022-43b2-9364-459c31835fe9" Title="KS_poolObject Methods" Url="html/b9ce60b2-2d9c-7248-3a04-f0efd76f6f9e.htm">
+        <HelpTOCNode Title="AddToPool Method " Url="html/5ed03195-37b0-c1f1-b5b9-bc6be5a052ba.htm" />
+        <HelpTOCNode Title="GetConcreteType(T) Method " Url="html/ece0e662-181f-5eed-feb0-9c2ada3a8682.htm" />
+        <HelpTOCNode Title="PoolSettings Method " Url="html/4ab2c7a3-57d3-63a4-00f9-d5edafbe36b2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5207a8dc-8363-44ce-ab0a-dc036bac324e" Title="PoolObjectSettings Class" Url="html/94bec7f4-3e31-70c7-65d9-45e4499ddffd.htm">
+      <HelpTOCNode Title="PoolObjectSettings Constructor " Url="html/e276f784-9ffb-0914-bd56-1f406ac61edb.htm" />
+      <HelpTOCNode Title="PoolObjectSettings Methods" Url="html/840408b5-8599-9645-9d55-e6ede65c1553.htm" />
+      <HelpTOCNode Id="1e9905c6-29d5-4697-83d9-7ae288647197" Title="PoolObjectSettings Fields" Url="html/c04e612f-5842-659c-991e-c9b84da933b9.htm">
+        <HelpTOCNode Title="poolLimit Field" Url="html/99c5415e-dce0-fbee-2bf6-710e65238455.htm" />
+        <HelpTOCNode Title="tag Field" Url="html/491ec92e-0d70-ac61-abc3-63c510da5502.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="0a562e7c-0e5c-4797-9abd-5aa67589a919" Title="KS_Core.Settings" Url="html/d14f57df-9c01-635b-c8a3-fbf633d8c412.htm">
+    <HelpTOCNode Id="43b46382-9444-49f0-9f69-cf560294a680" Title="KS_Scriptable_Settings Class" Url="html/cb224be0-0312-e618-6a36-6fe9c0692182.htm">
+      <HelpTOCNode Title="KS_Scriptable_Settings Constructor " Url="html/41e64184-f6f3-7925-1054-737f00647fe2.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Settings Properties" Url="html/95939236-5bb1-0cd5-1587-bdebcee7b677.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Settings Methods" Url="html/12406d10-d186-3d40-a672-569ed5bc8241.htm" />
+      <HelpTOCNode Id="135fad2e-a3b2-4c8d-87dc-a7c93b60f66f" Title="KS_Scriptable_Settings Fields" Url="html/08019f24-1564-afe0-05b1-e7b9d90f682a.htm">
+        <HelpTOCNode Title="Menus Field" Url="html/50bc1eb7-a7a7-c5af-1597-6e974511458c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ca78aa23-845a-492d-a0b2-609aa309f7b3" Title="KS_Scriptable_Settings_menu Class" Url="html/b2a654fd-1acf-6c8a-ffe9-b85491ec63e5.htm">
+      <HelpTOCNode Title="KS_Scriptable_Settings_menu Constructor " Url="html/ec08746b-50d2-0a74-1d6e-d35e676b77cb.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Settings_menu Methods" Url="html/367d3d3b-e729-2045-1069-35622acc732a.htm" />
+      <HelpTOCNode Id="44624730-6de3-4080-95c3-c67af52b5d73" Title="KS_Scriptable_Settings_menu Fields" Url="html/86709440-b833-a5ff-b82a-371c4f534ff5.htm">
+        <HelpTOCNode Title="menuTitle Field" Url="html/344aa392-fc12-de88-15c6-06269c6680da.htm" />
+        <HelpTOCNode Title="settings Field" Url="html/1fe6f3b6-1b69-ab0c-c597-e305c4561c0d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="68b2506e-d7db-461e-b4f5-6e2feb47a816" Title="KS_Scriptable_Settings_option Class" Url="html/24cd2a68-edc3-09b0-ebe6-790fde7e2252.htm">
+      <HelpTOCNode Title="KS_Scriptable_Settings_option Constructor " Url="html/0bdfec0f-f097-1002-e943-86cba03b83de.htm" />
+      <HelpTOCNode Title="KS_Scriptable_Settings_option Methods" Url="html/7082ebb6-e4aa-b438-c275-4aa3a4fd3419.htm" />
+      <HelpTOCNode Id="a71d9562-9615-4ec1-b777-2ae1b3052875" Title="KS_Scriptable_Settings_option Fields" Url="html/cd4f7f6d-64a3-bb9b-789c-13cf7c8ce156.htm">
+        <HelpTOCNode Title="configHelp Field" Url="html/9e173e9e-c21a-5187-4cdf-a48ac1cfbb87.htm" />
+        <HelpTOCNode Title="configID Field" Url="html/f244f1ee-476c-53c0-54c4-c69bafb5298d.htm" />
+        <HelpTOCNode Title="defult Field" Url="html/5a5100ef-376b-e5bb-e032-451c196124c2.htm" />
+        <HelpTOCNode Title="displayText Field" Url="html/46d28c37-f4ce-fdab-e9ae-7ae26a5fe32d.htm" />
+        <HelpTOCNode Title="dropdownOptions Field" Url="html/6571cfc2-3ab9-44ab-295a-da79f44eb4b6.htm" />
+        <HelpTOCNode Title="Maxvalue Field" Url="html/21059370-e7ae-63ff-8e2e-360dfc81b0e5.htm" />
+        <HelpTOCNode Title="minValue Field" Url="html/091ebb55-7462-bfda-0e86-744e1859b623.htm" />
+        <HelpTOCNode Title="type Field" Url="html/a848f88c-6589-7e1b-74b5-6b78d48ffc86.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KS_Scriptable_Settings_Type Enumeration" Url="html/22cb7909-3026-a236-54fa-db973a241e28.htm" />
+    <HelpTOCNode Id="a73ac2b0-0e66-4f6b-acc9-f696e7079b00" Title="KS_Settings Class" Url="html/bb22f94e-5270-6c3f-d1b7-d1a9961c405e.htm">
+      <HelpTOCNode Title="KS_Settings Constructor " Url="html/aa9f5965-f8e7-82ee-c7dc-a15ecc5b2639.htm" />
+      <HelpTOCNode Id="1c2fd121-0aa7-4d43-934a-fe06a0283834" Title="KS_Settings Properties" Url="html/bd1b9ad3-22a3-393b-f201-df587c9f64dc.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/9dda672c-c0d2-8e18-75ba-c153fb99f9f0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d014cc74-a575-4c3c-92da-7e7a59d9e24a" Title="KS_Settings Methods" Url="html/c830e4e4-34d9-20f8-c53e-a2fd26e39c6a.htm">
+        <HelpTOCNode Title="GetSetting Method " Url="html/4c302715-048d-5bdc-5a2f-06ee2d31dff6.htm" />
+        <HelpTOCNode Title="Save Method " Url="html/e0e16a47-2200-c60e-10ed-74e84d712c60.htm" />
+        <HelpTOCNode Title="SetString Method " Url="html/237cc3b6-724d-f395-21dc-686a52f7501b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="18085bb8-d556-4cc0-9406-002f35c09e4e" Title="KS_Settings Fields" Url="html/9ce4297a-0624-78c5-4c9a-9e1e4f23350c.htm">
+        <HelpTOCNode Title="gameConfig Field" Url="html/5fcef01e-aa8f-1058-713d-6059ed88eb08.htm" />
+        <HelpTOCNode Title="settings Field" Url="html/2521b405-9e81-d733-05d5-f05430c9550e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5531437f-4db8-45df-a8a9-55ea0082479d" Title="KS_Core.Splash" Url="html/799db0b8-cbd1-c816-1d91-2f29c4a769f7.htm">
+    <HelpTOCNode Id="968d207f-1a2c-4dee-b5c1-3d772b30f84e" Title="KS_SplashObject Class" Url="html/e3c53884-ac0f-7830-b3c4-5a26df3fd2c2.htm">
+      <HelpTOCNode Title="KS_SplashObject Constructor " Url="html/8fb31b25-4caa-430c-869b-03b5b10fad23.htm" />
+      <HelpTOCNode Title="KS_SplashObject Methods" Url="html/755a6e9f-18da-b92c-d31c-cb91b316b946.htm" />
+      <HelpTOCNode Id="12656ab0-8540-4a8b-b4ee-3a4347688248" Title="KS_SplashObject Fields" Url="html/12f027ca-ee06-7bc9-51e2-b868bea04723.htm">
+        <HelpTOCNode Title="aliveTime Field" Url="html/77026496-b953-3ddd-5bfa-3bf5ff124d48.htm" />
+        <HelpTOCNode Title="container Field" Url="html/0251b2d5-88f6-d266-11d7-027a635434e0.htm" />
+        <HelpTOCNode Title="fadeInOut Field" Url="html/2244ff57-83b6-9f8d-81dd-e63ba5743ab2.htm" />
+        <HelpTOCNode Title="fadeTime Field" Url="html/5b405e7b-0220-4640-1337-0c79f1559c9b.htm" />
+        <HelpTOCNode Title="skippable Field" Url="html/9b7ffbfe-3932-6b9b-f6f4-e20cb68410a8.htm" />
+        <HelpTOCNode Title="waitForInput Field" Url="html/c909ef67-df87-0520-3e35-4e16698cb2aa.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7367dec4-0f6a-493e-a700-f033f5404fff" Title="KS_SplashScreen Class" Url="html/a40733a4-2c12-8519-a2ca-f3aa7a98cca8.htm">
+      <HelpTOCNode Title="KS_SplashScreen Constructor " Url="html/67302c62-1512-417e-9070-0893b0dda712.htm" />
+      <HelpTOCNode Title="KS_SplashScreen Properties" Url="html/c929bc42-bb40-cf7c-ffe9-4eaccbd3046e.htm" />
+      <HelpTOCNode Id="209cd1bd-ed1b-4945-a4ea-ea0ecfc2af1c" Title="KS_SplashScreen Methods" Url="html/572da536-f5ee-69bf-b99b-15100b71fa71.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/6bef71c9-f1ac-3fdf-295b-079c6894815c.htm" />
+        <HelpTOCNode Title="OnGameStateChange Method " Url="html/2fc8017a-274f-fe71-2eee-64c98d85376c.htm" />
+        <HelpTOCNode Title="OnManagerStart Method " Url="html/4ae9541b-6475-003c-0f47-7bfc16a0764c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2480f14c-6a99-4178-a015-2824b63d3245" Title="KS_SplashScreen Events" Url="html/0b8ab80d-70cf-ca69-6017-f53786399db3.htm">
+        <HelpTOCNode Title="OnFinish Event" Url="html/4c91b4dc-975c-0f31-3954-29c61f00eacd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="69a864c7-c8cb-4f0b-84d7-a39843d0dddd" Title="KS_SplashScreen Fields" Url="html/67582806-205c-a36d-2fdf-8fe8a49cf168.htm">
+        <HelpTOCNode Title="fadeOverlay Field" Url="html/4a1fe17d-3471-5184-581b-e3364eb4f281.htm" />
+        <HelpTOCNode Title="skipInput Field" Url="html/d1e8646c-6889-aa17-e189-5ccdc3a53050.htm" />
+        <HelpTOCNode Title="skippable Field" Url="html/199f9822-c42c-c7f9-bef7-90e36398fed6.htm" />
+        <HelpTOCNode Title="splashScreens Field" Url="html/fc68aa91-3fb8-52d3-1486-e0c64017a770.htm" />
+        <HelpTOCNode Title="waitForInputButton Field" Url="html/af37d69d-aa96-ed4f-74dd-5fe0c428300c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ab8327e8-8f0a-4a58-9413-899784b62c4d" Title="KS_Mapping" Url="html/207c987a-40ce-bed1-b021-f706c9653484.htm">
+    <HelpTOCNode Id="36769ece-0434-4610-a628-02cd9f5fb49f" Title="DisplayMinimap Class" Url="html/9418fb5e-7a16-4fee-7ded-6100688fb2a1.htm">
+      <HelpTOCNode Title="DisplayMinimap Constructor " Url="html/33e2ecb4-2895-0c2a-ad5f-f344bcd3f811.htm" />
+      <HelpTOCNode Title="DisplayMinimap Properties" Url="html/2432301f-f54c-9a23-a1d2-c7f483505246.htm" />
+      <HelpTOCNode Title="DisplayMinimap Methods" Url="html/647b4d60-273a-25ce-9a98-46986880ba1f.htm" />
+      <HelpTOCNode Id="727cf325-24cc-4c0a-aa68-af42c71ac612" Title="DisplayMinimap Fields" Url="html/4542c891-7ca8-5853-cc43-cfab7588cdc6.htm">
+        <HelpTOCNode Title="minimapContainer Field" Url="html/44a1b413-01fa-1de2-03be-710d64e0fcb2.htm" />
+        <HelpTOCNode Title="minimapRender Field" Url="html/cf4117c5-5050-f2f8-4fc2-ba8232e50ae5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="02ea89b6-93a0-43f8-8dfc-4cfc5ec7fd72" Title="KS_Map Class" Url="html/82fd9c14-4d5c-41d8-6d62-8ed780cf7bcf.htm">
+      <HelpTOCNode Title="KS_Map Constructor " Url="html/46c286d8-d550-d46d-bb80-a8f91cffc239.htm" />
+      <HelpTOCNode Id="354947e2-127a-4584-94ae-c23d78037811" Title="KS_Map Properties" Url="html/99b5c0be-ce35-e8ae-d6e4-7d4bd07ab151.htm">
+        <HelpTOCNode Title="CenterTarget Property " Url="html/167be967-97a3-7c5d-2fc2-2deff593aff5.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/830ef306-15ae-fb68-3b07-e2bb3c7288d7.htm" />
+        <HelpTOCNode Title="MarkerScalePercent Property " Url="html/4aef3fac-c3d3-d3cd-c90a-cec6f955bf61.htm" />
+        <HelpTOCNode Title="MiniMapActive Property " Url="html/93634885-1873-53c6-f83b-0ef1b5afb5b8.htm" />
+        <HelpTOCNode Title="MiniMapTexture Property " Url="html/202982c2-acb3-979c-b5f0-57ba134d87de.htm" />
+        <HelpTOCNode Title="MoveSpeed Property " Url="html/d2c442fc-8d60-18d2-856b-397709a5cdb4.htm" />
+        <HelpTOCNode Title="ScalePercent Property " Url="html/e929caf2-3935-40c5-4f47-49845c32048c.htm" />
+        <HelpTOCNode Title="ZoomSpeed Property " Url="html/9537f1d2-cd41-8ca0-98de-899855e5dcf3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ade7e2af-0636-479b-8afe-af8276ddadb9" Title="KS_Map Methods" Url="html/0b940f33-7b47-22e6-9ee3-e5c39b2ca5fe.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/24ce71f6-eece-391a-1da0-697f8dd85a2e.htm" />
+        <HelpTOCNode Title="DisableMinimap Method " Url="html/a621a88c-ea31-08aa-4922-9153e854746f.htm" />
+        <HelpTOCNode Title="EnableMinimap Method " Url="html/bb8ed768-dc16-3449-2a77-b57451819eb4.htm" />
+        <HelpTOCNode Title="HideMap Method " Url="html/c2a7a71c-1979-3279-d74a-a03a69eed5f4.htm" />
+        <HelpTOCNode Title="ShowMap Method " Url="html/42b2aa5c-915c-f2c2-6602-1b2531645573.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cc2401cc-4a9f-4502-b5ab-eaa9e817c947" Title="KS_Map Events" Url="html/a7c7e569-2bc6-8990-390b-0d667c8b7113.htm">
+        <HelpTOCNode Title="MiniMapStateChange Event" Url="html/0b29eca7-f968-0bda-9fa2-ed8c0409d493.htm" />
+        <HelpTOCNode Title="OnScale Event" Url="html/2484bec2-ead4-d548-71aa-75ec55e2117a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cc1b76a4-e240-4f04-941b-31bffa8b2e89" Title="KS_Map Fields" Url="html/7300558f-1fef-52e7-53f8-85ced4f31e7d.htm">
+        <HelpTOCNode Title="defaultCameraHeight Field" Url="html/8bbc5b6e-3a79-2dfc-827f-5f368e75054c.htm" />
+        <HelpTOCNode Title="mapArea Field" Url="html/211fa167-381c-0cab-b69d-2a6350905c22.htm" />
+        <HelpTOCNode Title="mapCamera Field" Url="html/bb448fac-a509-1e99-4cef-a8b0dee39b62.htm" />
+        <HelpTOCNode Title="mapCenterTarget Field" Url="html/356e1b96-03e2-dd37-acfd-a9a1c2513133.htm" />
+        <HelpTOCNode Title="mapMoveSmoothing Field" Url="html/3770d2a3-faef-505d-ea5f-d016348b429c.htm" />
+        <HelpTOCNode Title="mapMoveSpeed Field" Url="html/521b3d37-7469-3162-f8e1-0555ed09cdec.htm" />
+        <HelpTOCNode Title="mapMoveSpeedCurve Field" Url="html/a33b71a7-5fa6-0669-cebb-57a075705d60.htm" />
+        <HelpTOCNode Title="maxCameraHeight Field" Url="html/c5333732-ab6c-b8a0-f5bd-a84c374d47b4.htm" />
+        <HelpTOCNode Title="MaxZoomSpeed Field" Url="html/79ebc518-81d3-c6b1-0a6c-9d57fa5ad5c1.htm" />
+        <HelpTOCNode Title="minCameraHeight Field" Url="html/6b855171-9b2f-a375-cd3b-96bd24637b31.htm" />
+        <HelpTOCNode Title="miniMapCameraHeight Field" Url="html/c323f35f-97ab-2a3a-5014-5d442b15fe6f.htm" />
+        <HelpTOCNode Title="renderFormat Field" Url="html/0b829176-2b55-7832-fee2-483e58884087.htm" />
+        <HelpTOCNode Title="UIOverlayCamera Field" Url="html/fa3df42e-7466-5a9c-e2b6-6eb86b7fd1b5.htm" />
+        <HelpTOCNode Title="useMiniMap Field" Url="html/4a882e91-f17a-1e00-3b25-1cc373f493b0.htm" />
+        <HelpTOCNode Title="ZoomSpeedCurve Field" Url="html/38ca804d-64bb-bf7e-a4e1-2f9bf100fdce.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6dd278d7-77c1-49ee-a567-de8ad757bc8a" Title="KS_MapMarker Class" Url="html/c3b7fb4d-43ec-a2a2-fb58-007396196f9e.htm">
+      <HelpTOCNode Title="KS_MapMarker Constructor " Url="html/e9f444da-871a-9d03-c33d-51fdf9269f13.htm" />
+      <HelpTOCNode Title="KS_MapMarker Properties" Url="html/d267edc8-b230-dbd4-2f5d-8404f8c92be8.htm" />
+      <HelpTOCNode Id="d4c19498-2263-47eb-a39d-e472f8022a2a" Title="KS_MapMarker Methods" Url="html/3d1320ca-da63-5c1b-6d0d-9032f2877ef9.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/0a4e3776-1175-8fac-b3be-e2ba8e2db30c.htm" />
+        <HelpTOCNode Title="OffHover Method " Url="html/50ec165a-bc13-412c-0eb4-a6a05b299af7.htm" />
+        <HelpTOCNode Title="OnDestroy Method " Url="html/c4874946-b7ae-570c-8275-c706b0449a87.htm" />
+        <HelpTOCNode Title="OnHover Method " Url="html/aa74e7ed-afa1-64ff-8996-cbd9147d5685.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bd9c8f5b-00de-4faa-9411-603dd5a052a6" Title="KS_MapMarker Fields" Url="html/24c55da3-1daf-d8a6-6577-cc3e9005dde5.htm">
+        <HelpTOCNode Title="locationName Field" Url="html/fac90b47-6d0b-63b2-98e3-a2b5aaa43211.htm" />
+        <HelpTOCNode Title="mapIcon Field" Url="html/caec823c-8e87-5f3a-ee4a-99fe92be9800.htm" />
+        <HelpTOCNode Title="mapText Field" Url="html/1505d0b6-d933-b5b0-b738-8c10f0ecb7ee.htm" />
+        <HelpTOCNode Title="showTillZoomPercent Field" Url="html/8574cf57-f9b1-fa65-e11d-9a0df3b8df4f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="0ef5ce7a-1b7e-4531-9e82-ba383398f5b5" Title="KS_Utility" Url="html/2365e1da-cb27-7f35-d14c-f62799e75c94.htm">
+    <HelpTOCNode Id="b041d3e9-0929-4a0e-835d-e2b6a26bd9ac" Title="GameMenu Class" Url="html/227e15b6-0804-3195-a879-840f21d85f48.htm">
+      <HelpTOCNode Title="GameMenu Constructor " Url="html/7b6b8f86-781d-df8f-a49d-e78c39184c6a.htm" />
+      <HelpTOCNode Title="GameMenu Properties" Url="html/afd84775-9f26-8ad4-e981-772fc2f8f3e2.htm" />
+      <HelpTOCNode Id="437ed773-3ce3-4706-a441-49a9889d805d" Title="GameMenu Methods" Url="html/6980aedb-6ff9-bb8b-24a9-c8f3bb347bcc.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/e69a9b14-741f-0763-cb01-48026f039d91.htm" />
+        <HelpTOCNode Title="Continue Method " Url="html/55fc6e83-9d58-01c7-2b27-472aacb7e3e2.htm" />
+        <HelpTOCNode Title="LoadGame Method " Url="html/cabe0233-2945-f475-01f9-c05f76783c06.htm" />
+        <HelpTOCNode Title="Quit Method " Url="html/9aacf145-8138-d63f-e97e-e3c6eb87c2a8.htm" />
+        <HelpTOCNode Title="SaveGame Method " Url="html/09a6e22a-8570-775b-7d79-ddc828bcba26.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="156d27df-9417-45aa-9966-a1dfddaaa3e6" Title="GameMenu Fields" Url="html/0ce6b550-28ee-384f-b500-bc571690c3ad.htm">
+        <HelpTOCNode Title="menuContainer Field" Url="html/da43ea99-b372-0d07-23fc-959167973307.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="98255ebc-2f2e-4e0f-ae60-cb70ea07b781" Title="KS_CameraMatchRotation Class" Url="html/925c8bca-5a06-0877-f8fd-d6e066482b37.htm">
+      <HelpTOCNode Title="KS_CameraMatchRotation Constructor " Url="html/3167a8b2-6b0c-a0ae-3201-8846b38b3de6.htm" />
+      <HelpTOCNode Title="KS_CameraMatchRotation Properties" Url="html/3cb3817b-a32a-495e-7ced-55bd6509d643.htm" />
+      <HelpTOCNode Title="KS_CameraMatchRotation Methods" Url="html/5a5304dc-85bc-6a9e-2927-b8203d2cf973.htm" />
+      <HelpTOCNode Id="d42c75b6-e179-430b-8af5-b8f75a589a99" Title="KS_CameraMatchRotation Fields" Url="html/4a7716b5-33f9-441d-b90a-bce6aaa579b4.htm">
+        <HelpTOCNode Title="target Field" Url="html/4afc84e7-c30e-a98f-4fdf-6f1e2f24c98f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="475bc78e-3b32-4c2f-ba9f-a9ce6c6c7990" Title="KS_Interactable Class" Url="html/bb2aa397-b4e3-0b47-47e5-2df92ce3fec3.htm">
+      <HelpTOCNode Title="KS_Interactable Constructor " Url="html/eadc77f4-c5e0-552e-fa8e-bc40249f7d9b.htm" />
+      <HelpTOCNode Title="KS_Interactable Properties" Url="html/fcfe0cba-fde6-4e0a-301f-fcefce200618.htm" />
+      <HelpTOCNode Id="7be71279-e57d-4298-b0a1-d64379ad526c" Title="KS_Interactable Methods" Url="html/00fcf114-2c02-45be-c7bc-9beae413aab9.htm">
+        <HelpTOCNode Title="OnHover Method " Url="html/d32aa742-5ab1-22f7-df75-294a91ebf63c.htm" />
+        <HelpTOCNode Title="OnHoverLeave Method " Url="html/b4c97936-6afb-a089-383c-318e17f7d59a.htm" />
+        <HelpTOCNode Title="OnPress Method " Url="html/c23c8129-336c-a32e-fd8e-f9589fef6dde.htm" />
+        <HelpTOCNode Title="OnPressHold Method " Url="html/56a0d35e-da5d-2d61-632b-58692729197b.htm" />
+        <HelpTOCNode Title="OnPressHoldLeave Method " Url="html/e77e76db-78db-6495-56eb-8200a640608a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5d92542b-0100-4a6c-959a-96b38a35e7ed" Title="KS_LoadScreen Class" Url="html/b74cda15-ea17-38f8-c345-800f2607b1c5.htm">
+      <HelpTOCNode Title="KS_LoadScreen Constructor " Url="html/4511b2cd-10ad-8625-6ce9-a672784daf70.htm" />
+      <HelpTOCNode Id="2db26245-85f9-4531-b1f2-18217bc7e8a4" Title="KS_LoadScreen Properties" Url="html/42c0f4f5-b6ca-5f8e-7853-d8f7ffaddc26.htm">
+        <HelpTOCNode Title="Loading Property " Url="html/65b1e222-495b-0a10-f556-3036c14c54ab.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a355f2e4-bfa4-41f8-9db3-3b2bb056e660" Title="KS_LoadScreen Methods" Url="html/f99e0e8e-cd0a-45c3-b62a-ee4bf9eaa4b0.htm">
+        <HelpTOCNode Title="OnLoadLevel Method " Url="html/519d3d47-28e2-56a1-cbfb-c3ba5625ca45.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b2981047-6b4d-4cb5-91d8-a2076314070a" Title="KS_LoadScreen Fields" Url="html/18fb5d80-9a03-5045-66d1-1fe6beea46f5.htm">
+        <HelpTOCNode Title="LoadScreenContainer Field" Url="html/bd69e990-a218-b8dc-204a-b39edd77e284.htm" />
+        <HelpTOCNode Title="waitForInput Field" Url="html/32ce38a7-f57b-bb90-182e-347401da06a4.htm" />
+        <HelpTOCNode Title="waitInputID Field" Url="html/ed30ba4f-0839-34d1-5229-3f3f4e0aa5eb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="727550f9-081c-49d4-8e91-9f9ba5d753e8" Title="KS_Screenshot Class" Url="html/e4bbc1c4-7a28-207d-f547-2918d4354078.htm">
+      <HelpTOCNode Title="KS_Screenshot Constructor " Url="html/ef7d868c-525e-11ba-b39d-fd4847e7ac4f.htm" />
+      <HelpTOCNode Title="KS_Screenshot Properties" Url="html/37c71ba8-4000-c72f-f89d-b6b020af6b49.htm" />
+      <HelpTOCNode Id="06aca5f3-ab5c-4ce3-a48d-38998ba99403" Title="KS_Screenshot Methods" Url="html/e1bfd694-0a9b-8500-391c-f2bdb6f66e4b.htm">
+        <HelpTOCNode Title="TakeScreenshot Method " Url="html/48a7e772-4ce5-a699-8502-a8dceb71b512.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8f8ba2eb-9eb3-4e57-80d1-d8a917c59c33" Title="KS_Screenshot Fields" Url="html/5f5bf035-cce1-0319-515d-1602556b2fe0.htm">
+        <HelpTOCNode Title="hideUI Field" Url="html/a2ea48db-a02b-95f8-7000-115153818126.htm" />
+        <HelpTOCNode Title="screenshotNamePrefix Field" Url="html/59628f03-bb98-2015-1b46-a17a47e124ee.htm" />
+        <HelpTOCNode Title="UI Field" Url="html/87cd0c88-2cf5-48c1-2faf-e410ce7c9891.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
