@@ -106,8 +106,8 @@
   <HelpKINode Title="DpadUp enumeration member" Url="html/be44e531-4f7e-c402-3967-811d36d0b2a5.htm" />
   <HelpKINode Title="DpadX enumeration member" Url="html/8abf1783-cc26-c22d-2e83-ea8ebf002cf8.htm" />
   <HelpKINode Title="DPadX enumeration member" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
-  <HelpKINode Title="DPadY enumeration member" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
   <HelpKINode Title="DpadY enumeration member" Url="html/8abf1783-cc26-c22d-2e83-ea8ebf002cf8.htm" />
+  <HelpKINode Title="DPadY enumeration member" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
   <HelpKINode Title="dropdown enumeration member" Url="html/22cb7909-3026-a236-54fa-db973a241e28.htm" />
   <HelpKINode Title="dropdownOptions field" Url="html/6571cfc2-3ab9-44ab-295a-da79f44eb4b6.htm" />
   <HelpKINode Title="DS4Axis enumeration" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
@@ -226,8 +226,9 @@
     <HelpKINode Title="DS4KeyCode Enumeration" Url="html/62f11f67-9cec-b90d-84df-f007b7fa7dce.htm" />
     <HelpKINode Title="XboxKeyCode Enumeration" Url="html/be44e531-4f7e-c402-3967-811d36d0b2a5.htm" />
   </HelpKINode>
-  <HelpKINode Title="ID field" Url="html/065cbdc7-15df-44f1-3dd0-caaf2fc4dc44.htm" />
+  <HelpKINode Title="hoverText field" Url="html/be39f6c1-105e-874e-4053-761e793b4281.htm" />
   <HelpKINode Title="id field" Url="html/e1147724-a9a9-7389-104b-84682d5e459e.htm" />
+  <HelpKINode Title="ID field" Url="html/065cbdc7-15df-44f1-3dd0-caaf2fc4dc44.htm" />
   <HelpKINode Title="IDamageable interface">
     <HelpKINode Title="IDamageable Interface" Url="html/c41c99d2-6bbb-e14f-1091-95d030622b42.htm" />
     <HelpKINode Title="methods" Url="html/fcaaf738-a7e2-4c44-25f2-6a23774f91e0.htm" />
@@ -553,9 +554,11 @@
   <HelpKINode Title="KS_Interactable class">
     <HelpKINode Title="KS_Interactable Class" Url="html/bb2aa397-b4e3-0b47-47e5-2df92ce3fec3.htm" />
     <HelpKINode Title="constructor" Url="html/eadc77f4-c5e0-552e-fa8e-bc40249f7d9b.htm" />
+    <HelpKINode Title="fields" Url="html/ead1c4a6-e313-63cc-7f74-6fbbb5206161.htm" />
     <HelpKINode Title="methods" Url="html/00fcf114-2c02-45be-c7bc-9beae413aab9.htm" />
     <HelpKINode Title="properties" Url="html/fcfe0cba-fde6-4e0a-301f-fcefce200618.htm" />
   </HelpKINode>
+  <HelpKINode Title="KS_Interactable.hoverText field" Url="html/be39f6c1-105e-874e-4053-761e793b4281.htm" />
   <HelpKINode Title="KS_Interactable.KS_Interactable constructor" Url="html/eadc77f4-c5e0-552e-fa8e-bc40249f7d9b.htm" />
   <HelpKINode Title="KS_Interactable.OnHover method" Url="html/d32aa742-5ab1-22f7-df75-294a91ebf63c.htm" />
   <HelpKINode Title="KS_Interactable.OnHoverLeave method" Url="html/b4c97936-6afb-a089-383c-318e17f7d59a.htm" />
@@ -650,6 +653,7 @@
   <HelpKINode Title="KS_Map.HideMap method" Url="html/c2a7a71c-1979-3279-d74a-a03a69eed5f4.htm" />
   <HelpKINode Title="KS_Map.Instance property" Url="html/830ef306-15ae-fb68-3b07-e2bb3c7288d7.htm" />
   <HelpKINode Title="KS_Map.KS_Map constructor" Url="html/46c286d8-d550-d46d-bb80-a8f91cffc239.htm" />
+  <HelpKINode Title="KS_Map.MapActive property" Url="html/139b0c21-add4-62bc-e207-9b11516fd7d3.htm" />
   <HelpKINode Title="KS_Map.mapArea field" Url="html/211fa167-381c-0cab-b69d-2a6350905c22.htm" />
   <HelpKINode Title="KS_Map.mapCamera field" Url="html/bb448fac-a509-1e99-4cef-a8b0dee39b62.htm" />
   <HelpKINode Title="KS_Map.mapCenterTarget field" Url="html/356e1b96-03e2-dd37-acfd-a9a1c2513133.htm" />
@@ -1051,8 +1055,8 @@
   <HelpKINode Title="LevelLoaded method" Url="html/30d206ee-9018-b282-5f4c-879aaafd9eec.htm" />
   <HelpKINode Title="LevelLoadStarted method" Url="html/25c364cd-ce43-9286-7adb-58fae68d59b9.htm" />
   <HelpKINode Title="LineByLine enumeration member" Url="html/51c1420d-7fb6-f20a-5089-de092e34992a.htm" />
-  <HelpKINode Title="lineId field" Url="html/3ec17c29-72c7-6b68-925e-b5ba1a2c60ec.htm" />
   <HelpKINode Title="lineID field" Url="html/ac2f95d6-d046-796e-27fb-3edd1fe79dc9.htm" />
+  <HelpKINode Title="lineId field" Url="html/3ec17c29-72c7-6b68-925e-b5ba1a2c60ec.htm" />
   <HelpKINode Title="lineText field" Url="html/d405d5ce-9173-a5ff-3695-895b23f2f3d7.htm" />
   <HelpKINode Title="LinuxDataLocation enumeration" Url="html/9a24f7ae-a1ff-d539-80db-10f193b4163c.htm" />
   <HelpKINode Title="linuxDataLocation field" Url="html/a721168d-34d9-0fff-d7d7-3e6bfedae78a.htm" />
@@ -1079,6 +1083,7 @@
   <HelpKINode Title="macDataLocation field" Url="html/2058cc96-42f8-48d6-251d-d0842e61bf75.htm" />
   <HelpKINode Title="MainMenu enumeration member" Url="html/d778a769-2439-70d4-efd2-5f9781e56336.htm" />
   <HelpKINode Title="Manager property" Url="html/6a698eb3-eadc-d444-e3a4-aa0addc24aa6.htm" />
+  <HelpKINode Title="MapActive property" Url="html/139b0c21-add4-62bc-e207-9b11516fd7d3.htm" />
   <HelpKINode Title="mapArea field" Url="html/211fa167-381c-0cab-b69d-2a6350905c22.htm" />
   <HelpKINode Title="mapCamera field" Url="html/bb448fac-a509-1e99-4cef-a8b0dee39b62.htm" />
   <HelpKINode Title="mapCenterTarget field" Url="html/356e1b96-03e2-dd37-acfd-a9a1c2513133.htm" />
