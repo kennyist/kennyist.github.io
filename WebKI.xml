@@ -104,10 +104,10 @@
   <HelpKINode Title="DpadLeft enumeration member" Url="html/be44e531-4f7e-c402-3967-811d36d0b2a5.htm" />
   <HelpKINode Title="DpadRight enumeration member" Url="html/be44e531-4f7e-c402-3967-811d36d0b2a5.htm" />
   <HelpKINode Title="DpadUp enumeration member" Url="html/be44e531-4f7e-c402-3967-811d36d0b2a5.htm" />
-  <HelpKINode Title="DpadX enumeration member" Url="html/8abf1783-cc26-c22d-2e83-ea8ebf002cf8.htm" />
   <HelpKINode Title="DPadX enumeration member" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
-  <HelpKINode Title="DpadY enumeration member" Url="html/8abf1783-cc26-c22d-2e83-ea8ebf002cf8.htm" />
+  <HelpKINode Title="DpadX enumeration member" Url="html/8abf1783-cc26-c22d-2e83-ea8ebf002cf8.htm" />
   <HelpKINode Title="DPadY enumeration member" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
+  <HelpKINode Title="DpadY enumeration member" Url="html/8abf1783-cc26-c22d-2e83-ea8ebf002cf8.htm" />
   <HelpKINode Title="dropdown enumeration member" Url="html/22cb7909-3026-a236-54fa-db973a241e28.htm" />
   <HelpKINode Title="dropdownOptions field" Url="html/6571cfc2-3ab9-44ab-295a-da79f44eb4b6.htm" />
   <HelpKINode Title="DS4Axis enumeration" Url="html/8de91fe7-4119-ff80-134c-fef9babea29a.htm" />
@@ -227,8 +227,8 @@
     <HelpKINode Title="XboxKeyCode Enumeration" Url="html/be44e531-4f7e-c402-3967-811d36d0b2a5.htm" />
   </HelpKINode>
   <HelpKINode Title="hoverText field" Url="html/be39f6c1-105e-874e-4053-761e793b4281.htm" />
-  <HelpKINode Title="id field" Url="html/e1147724-a9a9-7389-104b-84682d5e459e.htm" />
   <HelpKINode Title="ID field" Url="html/065cbdc7-15df-44f1-3dd0-caaf2fc4dc44.htm" />
+  <HelpKINode Title="id field" Url="html/e1147724-a9a9-7389-104b-84682d5e459e.htm" />
   <HelpKINode Title="IDamageable interface">
     <HelpKINode Title="IDamageable Interface" Url="html/c41c99d2-6bbb-e14f-1091-95d030622b42.htm" />
     <HelpKINode Title="methods" Url="html/fcaaf738-a7e2-4c44-25f2-6a23774f91e0.htm" />

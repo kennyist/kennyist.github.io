@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.12.30.2" projectFile="C:\Users\kennyist\Desktop\test.shfbproj" started="19/05/2018 23:30:23">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.12.30.2" projectFile="C:\Users\kennyist\Desktop\test.shfbproj" started="20/05/2018 22:17:02">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -15,17 +15,14 @@ Loading and initializing plug-ins...
 Lightweight Website Style Version 2017.12.30.2
 Copyright &#169; 2006-2017, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
-</buildStep>
-<buildStep step="ClearWorkFolder">
-Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
+Source: C:\Users\kennyist\Documents\GitHub\ks-framework\KS_Framework_Development\Temp\framework.xml
 Source: C:\Users\kennyist\Documents\GitHub\ks-framework\KS_Framework_Development\KS_Framework_Development.csproj
     Found project &#39;C:\Users\kennyist\Documents\GitHub\ks-framework\KS_Framework_Development\KS_Framework_Development.csproj&#39;
-Source: C:\Users\kennyist\Documents\GitHub\ks-framework\KS_Framework_Development\Temp\framework.xml
 
 Parsing project files
     Found assembly &#39;C:\Users\kennyist\Documents\GitHub\ks-framework\KS_Framework_Development\Temp\Assembly-CSharp.dll&#39;
@@ -119,16 +116,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.1234
+</plugIn>    Last step completed in 00:00:00.0045
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0261
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateRefInfo.proj]
-Build started 19/05/2018 23:30:26.
+Build started 20/05/2018 22:17:05.
 Project &quot;C:\Users\kennyist\Desktop\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -220,12 +217,12 @@ GenerateRefInfo:
   Portions Copyright &#184; 2006-2016, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
 Done Building Project &quot;C:\Users\kennyist\Desktop\Help\Working\GenerateRefInfo.proj&quot; (default targets).
-    Last step completed in 00:00:05.6037
+    Last step completed in 00:00:01.5372
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - TransformManifest.proj]
-Build started 19/05/2018 23:30:31.
+Build started 20/05/2018 22:17:06.
 Project &quot;C:\Users\kennyist\Desktop\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2017.12.30.2)
@@ -242,11 +239,11 @@ TransformManifest:
   Portions Copyright &#184; 2006-2016, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
 Done Building Project &quot;C:\Users\kennyist\Desktop\Help\Working\TransformManifest.proj&quot; (default targets).
-    Last step completed in 00:00:02.9703
+    Last step completed in 00:00:01.4102
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:01.8721
+    Last step completed in 00:00:00.3007
 </buildStep>
 <buildStep step="GenerateInheritedDocumentation">
 Generating inherited documentation...
@@ -333,21 +330,21 @@ Merging inherited documentation...
 
 
 Documentation merged successfully
-    Last step completed in 00:00:08.1015
+    Last step completed in 00:00:01.5536
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0005
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 19/05/2018 23:30:45.
+Build started 20/05/2018 22:17:09.
 Project &quot;C:\Users\kennyist\Desktop\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2017.12.30.2)
@@ -356,12 +353,12 @@ GenerateIntermediateTOC:
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
 Done Building Project &quot;C:\Users\kennyist\Desktop\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:01.2780
+    Last step completed in 00:00:00.3329
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.7659
+    Last step completed in 00:00:00.2767
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -371,12 +368,12 @@ C:\Users\kennyist\Desktop\Help\Working\sandcastle.config
     Replacing default configuration for &#39;Code Block Component&#39; with the custom configuration
     Added configuration for &#39;IntelliSense Component&#39; after &#39;Show Missing Documentation Component&#39; (instance 1)
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00.0470
+    Last step completed in 00:00:00.0085
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - BuildTopics.proj]
-Build started 19/05/2018 23:30:46.
+Build started 20/05/2018 22:17:10.
 Project &quot;C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj&quot; on node 1 (default targets).
 BuildTopics:
   BuildAssembler (v2017.12.30.2)
@@ -384,7 +381,6 @@ BuildTopics:
   Portions Copyright &#184; 2006-2016, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Character] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Character.KS_CharacterController] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Character.KS_CharacterController] Unknown reference link target &#39;T:UnityEngine.Component&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Character.KS_CharacterController] Unknown reference link target &#39;T:UnityEngine.Behaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -1043,7 +1039,6 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Char
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Character.KS_CharacterController] Unknown reference link target &#39;T:UnityEngine.MonoBehaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Character.KS_CharacterController.camera] Unknown reference link target &#39;T:UnityEngine.Transform&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Character.KS_CharacterController.camera] Unknown reference link target &#39;T:UnityEngine.Transform&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:KS_Core.IDamageable.TakeDamage(System.Single,UnityEngine.GameObject)] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:KS_Core.IDamageable.TakeDamage(System.Single,UnityEngine.GameObject)] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:KS_Core.IHealable.TakeHealth(System.Single,UnityEngine.GameObject)] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -2428,7 +2423,6 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core.KS_Scriptable_GameConfig] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core.KS_Scriptable_GameConfig] Unknown reference link target &#39;P:UnityEngine.Object.name&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core.KS_Scriptable_GameConfig] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Atmosphere] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Atmosphere.KS_Buoyancy] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Atmosphere.KS_Buoyancy] Unknown reference link target &#39;T:UnityEngine.Component&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Atmosphere.KS_Buoyancy] Unknown reference link target &#39;T:UnityEngine.Behaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -4423,14 +4417,11 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core.Atmosphere.KS_Water] Unknown reference link target &#39;T:UnityEngine.Component&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core.Atmosphere.KS_Water] Unknown reference link target &#39;P:UnityEngine.MonoBehaviour.useGUILayout&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core.Atmosphere.KS_Water] Unknown reference link target &#39;T:UnityEngine.MonoBehaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Atmosphere.SunCalc] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [T:KS_Core.Atmosphere.SunCalc.KS_SunCalc] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:KS_Core.Atmosphere.SunCalc.KS_SunCalc.CalculateSunPosition(System.Int32,System.Int32,System.Int32,System.Double,System.Double)] Unknown reference link target &#39;T:UnityEngine.Vector2&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:KS_Core.Atmosphere.SunCalc.KS_SunCalc.CalculateSunPosition(System.Int32,System.Int32,System.Int32,System.Double,System.Double)] Unknown reference link target &#39;T:UnityEngine.Vector2&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Console] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:KS_Core.Console.KS_Console.WriteToConsole(System.String,UnityEngine.Color)] Unknown reference link target &#39;T:UnityEngine.Color&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:KS_Core.Console.KS_Console.WriteToConsole(System.String,UnityEngine.Color)] Unknown reference link target &#39;T:UnityEngine.Color&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.GameTime] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.GameTime.KS_TimeManager] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.GameTime.KS_TimeManager] Unknown reference link target &#39;T:UnityEngine.Component&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.GameTime.KS_TimeManager] Unknown reference link target &#39;T:UnityEngine.Behaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -5094,8 +5085,6 @@ BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.GameTime.KS_TimeMana
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.GameTime.KS_TimeManager.OnLevelLoaded] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [T:KS_Core.GameTime.KS_TimeManager.DayTimeZone] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [T:KS_Core.GameTime.KS_TimeManager.TimeUpdate] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Handlers] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Input] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Input.KS_Input] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Input.KS_Input] Unknown reference link target &#39;T:UnityEngine.Component&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Input.KS_Input] Unknown reference link target &#39;T:UnityEngine.Behaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -5832,7 +5821,6 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.Input.KS_S
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.Input.KS_Scriptable_Input_object.negitive] Unknown reference link target &#39;T:UnityEngine.KeyCode&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.Input.KS_Scriptable_Input_object.positive] Unknown reference link target &#39;T:UnityEngine.KeyCode&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.Input.KS_Scriptable_Input_object.positive] Unknown reference link target &#39;T:UnityEngine.KeyCode&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.IO] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.KS_FileHelper.GetGameFolderPath] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.KS_FileHelper.GetGameFolderPath] Missing &lt;returns&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [T:KS_Core.IO.KS_SaveLoad] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -5851,7 +5839,6 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.IO.KS_Save
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.IO.KS_SaveObject.position] Unknown reference link target &#39;T:UnityEngine.Vector3&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.IO.KS_SaveObject.rotation] Unknown reference link target &#39;T:UnityEngine.Quaternion&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.IO.KS_SaveObject.rotation] Unknown reference link target &#39;T:UnityEngine.Quaternion&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.IO.Surrogates] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.Surrogates.CameraSurrogate.GetObjectData(System.Object,System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)] Missing &lt;param name=&quot;obj&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.Surrogates.CameraSurrogate.GetObjectData(System.Object,System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)] Missing &lt;param name=&quot;info&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.Surrogates.CameraSurrogate.GetObjectData(System.Object,System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)] Missing &lt;param name=&quot;context&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -5892,7 +5879,6 @@ BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.Surrogates.Vector
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.Surrogates.Vector3Surrogate.SetObjectData(System.Object,System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext,System.Runtime.Serialization.ISurrogateSelector)] Missing &lt;param name=&quot;info&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.Surrogates.Vector3Surrogate.SetObjectData(System.Object,System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext,System.Runtime.Serialization.ISurrogateSelector)] Missing &lt;param name=&quot;context&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.IO.Surrogates.Vector3Surrogate.SetObjectData(System.Object,System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext,System.Runtime.Serialization.ISurrogateSelector)] Missing &lt;param name=&quot;selector&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Localisation] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [T:KS_Core.Localisation.KS_Localisation] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Localisation.KS_Localisation] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Localisation.KS_Localisation] Unknown reference link target &#39;T:UnityEngine.Component&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -8711,7 +8697,6 @@ BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Localisation.KS_Text
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Localisation.KS_TextTranslate.Refresh] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Localisation.KS_TextTranslate.Start] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Localisation.KS_TextTranslate.Update] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Parsers] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Parsers.KS_IniParser] Unknown reference link target &#39;!:iniParser&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Parsers.KS_IniParser] Invalid reference link target &#39;!:iniParser&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Parsers.KS_IniParser] Unknown reference link target &#39;!:iniParser&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -8745,7 +8730,6 @@ BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Parsers.KS_IniParser
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Parsers.KS_IniParser.Set(System.String,System.String,System.String)] Missing &lt;param name=&quot;key&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Parsers.KS_IniParser.Set(System.String,System.String,System.String)] Missing &lt;param name=&quot;value&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Parsers.KS_IniParser.Set(System.String,System.String,System.String,System.String)] Missing &lt;param name=&quot;value&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Pooling] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [P:KS_Core.Pooling.KS_IPoolObject._Id] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [P:KS_Core.Pooling.KS_IPoolObject.GameObject] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [P:KS_Core.Pooling.KS_IPoolObject.GameObject] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -10077,7 +10061,6 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:KS_Core.Pooling.KS_poolObject] Unknown reference link target &#39;T:UnityEngine.MonoBehaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [P:KS_Core.Pooling.KS_poolObject.GameObject] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [P:KS_Core.Pooling.KS_poolObject.GameObject] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Settings] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Settings.KS_Scriptable_Settings] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Settings.KS_Scriptable_Settings] Unknown reference link target &#39;T:UnityEngine.ScriptableObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Settings.KS_Scriptable_Settings] Unknown reference link target &#39;P:UnityEngine.Object.hideFlags&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -10808,7 +10791,6 @@ BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Settings.KS_Settings
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Settings.KS_Settings.SetString(System.String,System.String)] Missing &lt;param name=&quot;key&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Settings.KS_Settings.SetString(System.String,System.String)] Missing &lt;param name=&quot;value&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [F:KS_Core.Settings.KS_Settings.settings] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Core.Splash] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.Splash.KS_SplashObject.container] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.Splash.KS_SplashObject.container] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Core.Splash.KS_SplashScreen] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -11473,7 +11455,6 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Core.Splash.KS_
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Splash.KS_SplashScreen.OnGameStateChange(KS_Core.KS_Manager.GameState)] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Splash.KS_SplashScreen.OnGameStateChange(KS_Core.KS_Manager.GameState)] Missing &lt;param name=&quot;state&quot;/&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ShowMissingComponent: [M:KS_Core.Splash.KS_SplashScreen.OnManagerStart] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [N:KS_Mapping] Missing &lt;summary&gt; documentation [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Mapping.DisplayMinimap] Unknown reference link target &#39;T:UnityEngine.Object&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Mapping.DisplayMinimap] Unknown reference link target &#39;T:UnityEngine.Component&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:KS_Mapping.DisplayMinimap] Unknown reference link target &#39;T:UnityEngine.Behaviour&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
@@ -16792,15 +16773,15 @@ BuildAssembler : warning : ShowMissingComponent: [F:KS_Utility.KS_Screenshot.UI]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Utility.KS_Screenshot.UI] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:KS_Utility.KS_Screenshot.UI] Unknown reference link target &#39;T:UnityEngine.GameObject&#39;. [C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj]
   Processed 665 topic(s)
-  16407 warning(s)
+  16391 warning(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 5 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 5 of 30.
 Done Building Project &quot;C:\Users\kennyist\Desktop\Help\Working\BuildTopics.proj&quot; (default targets).
-    Last step completed in 00:00:46.4294
+    Last step completed in 00:00:17.2205
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0040
+    Last step completed in 00:00:00.0055
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -16822,7 +16803,7 @@ Processed 665 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\kennyist\Desktop\Help\Working\WebKI.xml
 Saving website table of contents to C:\Users\kennyist\Desktop\Help\Working\WebTOC.xml
-    Last step completed in 00:00:02.6394
+    Last step completed in 00:00:00.6296
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -16966,19 +16947,19 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\kennyist\Desktop\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; C:\Users\kennyist\Desktop\Help\Working\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\kennyist\Desktop\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:01.7890
+    Last step completed in 00:00:02.4579
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
-    Last step completed in 00:00:00.0005
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateHelpFileIndex">
 Generating HTML Help 1 index file...
-    Last step completed in 00:00:00.0005
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0215
+    Last step completed in 00:00:00.0090
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -16993,7 +16974,7 @@ Compiling HTML Help 1 file...
   
   
   
-  Compile time: 0 minutes, 11 seconds
+  Compile time: 0 minutes, 7 seconds
   
   667	Topics
   
@@ -17007,11 +16988,11 @@ Compiling HTML Help 1 file...
   
   
   
-  Created c:\Users\kennyist\Desktop\Help\Working\Output\HtmlHelp1\Documentation.chm, 851,802 bytes
+  Created c:\Users\kennyist\Desktop\Help\Working\Output\HtmlHelp1\Documentation.chm, 852,148 bytes
   
-  Compression decreased file by 4,888,075 bytes.
+  Compression decreased file by 4,886,157 bytes.
   
-    Last step completed in 00:00:14.7242
+    Last step completed in 00:00:08.8919
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -17022,22 +17003,22 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:01.5234
+</plugIn>    Last step completed in 00:00:00.8968
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 500 files
 Copied 946 files for the website content
-    Last step completed in 00:00:12.1913
+    Last step completed in 00:00:01.0331
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:09.7611
+    Last step completed in 00:00:01.9050
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 19/05/2018 23:32:15.  Total time: 00:01:51.7851
+Build completed successfully at 20/05/2018 22:17:43.  Total time: 00:00:40.8676
 
 </buildStep>
 </shfbBuild>
